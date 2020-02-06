@@ -11,7 +11,6 @@
 <link rel="stylesheet" href="resource/css/common.css">
 <link rel="stylesheet" href="resource/css/main.css">
 <script src="resource/js/lib/jquery-3.4.1.js"></script>
-
 </head>
 <body>
     <div id="wrap" class="wrap">
