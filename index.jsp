@@ -14,9 +14,7 @@
 <body>
     <div id="wrap" class="wrap">
         <!-- header -->
-        <header>
-            <%@ include file="include/header.jsp" %>
-        </header>
+        <%@ include file="include/header.jsp" %>
 
         <div class="visual">
 
@@ -39,12 +37,7 @@
         </main>
 
         <!-- footer -->
-        <footer>
-            <%@ include file="include/footer.jsp" %>
-        </footer>
+        <%@ include file="include/footer.jsp" %>
     </div>
-
-
 </body>
-
 </html>

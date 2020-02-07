@@ -49,7 +49,7 @@ header{position:fixed; width:100%; height:100px; background-color:blue;}
 .header .util .util_group ul li .search_input .search_btn::before{content:""; display:block; position:absolute; right:15px; top:8px; width:22px; height:23px; background-image:url(../images/common/icon_common_all.png); background-repeat:no-repeat; background-position:-75px -450px;}
 
 /* gnb_sub */
-.gnb_sub{position:fixed; top:100px; width:100%; height:377px; background-color:#fff; box-shadow:0 30px 80px -89px #000;}
+.gnb_sub{display:none; position:fixed; top:100px; width:100%; height:377px; background-color:#fff; box-shadow:0 30px 80px -89px #000;}
 .gnb_sub_inner{position:relative; width:1580px; height:100%; margin:0 auto;}
 .gnb_sub_wrap{position:absolute; height:377px;}
 .gnb_sub_wrap::after{content:""; display:block; clear:both;}
