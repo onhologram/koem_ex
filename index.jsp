@@ -7,10 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi">
 <meta name="description" content="">
 <title>해양환경공단 메인</title>
-<link rel="stylesheet" href="resource/css/reset.css">
-<link rel="stylesheet" href="resource/css/common.css">
+<%@ include file="include/common.jsp" %>
 <link rel="stylesheet" href="resource/css/main.css">
-<script src="resource/js/lib/jquery-3.4.1.js"></script>
+
 </head>
 <body>
     <div id="wrap" class="wrap">
