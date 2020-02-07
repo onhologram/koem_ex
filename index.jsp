@@ -9,7 +9,6 @@
 <title>해양환경공단 메인</title>
 <%@ include file="include/common.jsp" %>
 <link rel="stylesheet" href="resource/css/main.css">
-
 </head>
 <body>
     <div id="wrap" class="wrap">
@@ -38,6 +37,7 @@
 
         <!-- footer -->
         <%@ include file="include/footer.jsp" %>
-    </div>
+    </div><!--//wrap -->
 </body>
+
 </html>

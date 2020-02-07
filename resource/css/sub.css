@@ -1,0 +1,14 @@
+/* sub */
+.sub .bg{position:relative; width:100%; height:530px; background-repeat:no-repeat; background-position:0 0;}
+.sub .bg .inner{width:1580px; margin:0 auto;}
+.sub .bg .inner h2{padding-top:200px; text-align:center; font-size:50px; font-weight:600; color:#fff;}
+.sub .bg.info{background-image: url(../images/sub/sub_bg_01.jpg);}
+
+.sub .content .inner{width:1580px; height:1000px; margin:90px auto 0; padding:28px 40px; background-color:#fff; box-sizing:border-box;}
+.sub_header .lnb_group::after{content:""; display:block; clear:both;}
+.sub_header .lnb_group .detail{float:left;}
+.sub_header .lnb_group .utility{float:right;}
+.sub_header .lnb_group .detail{padding-left:44px;}
+.sub_header .lnb_group .detail>ul>li{float:left; width:270px; padding:0 20px;  box-sizing:border-box; }
+.sub_header .lnb_group .detail>ul>li .lnb_tit{display:block; position:relative; font-size:16px; background:url(../images/sub/icon_subNav_ar.gif) no-repeat 95% 50%;}
+.sub_header .lnb_group .detail>ul>li .lnb_tit::after{content:""; display:block; position:absolute; width:1px; height:20px; background-color:#cecece;}
