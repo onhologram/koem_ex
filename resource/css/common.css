@@ -13,9 +13,9 @@
     font-family: NanumGothic;
     font-weight: bold;
     font-style: normal;
-    src: url('font/NanumGothic-Bold.eot');
-    src: url('font/NanumGothic-Bold.eot?#iefix') format('embedded-opentype'),
-         url('font/NanumGothic-Bold.ttf') format('truetype');
+    src: url('fonts/NanumGothic-Bold.eot');
+    src: url('fonts/NanumGothic-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/NanumGothic-Bold.ttf') format('truetype');
 }
 
 .wrap{position:relative;}

@@ -1,3 +1,35 @@
 @charset "utf-8";
 
 /* main */
+.visual{position:relative; width:100%; height:993px; background: url(../images/main/page1_visual1.jpg) no-repeat 0 0; background-size:100%;}
+.visual *{font-family:Malgun Gothic, NanumGothic, Dotum, Helvetica, sans-serif;}
+.visual .inner{width:850px; margin:0 auto; padding-top:250px;}
+.visual .inner *{color:#fff; text-align:center;}
+.visual_txt .txt_top{font-size:48px; font-weight:500; letter-spacing:-1.5px;}
+.visual_txt .txt_top .txt_motion{display:inline-block; margin-left:14px;}
+.visual_txt .txt_top .txt_motion:nth-child(1){margin-left:0;}
+.visual_txt .txt_top .txt_motion.eng{font-size:58px;}
+.visual_txt .txt_bottom{margin-top:10px;}
+.visual_txt .txt_bottom .txt_motion{font-size:19px;}
+
+.btn_area{position:relative;}
+.btn_area span{position:relative; display:inline-block;}
+.btn_area span a{display:block; text-indent:-9999px;}
+.btn_area .arr{position:relative; width:320px; height:1px;}
+.btn_area .arr::before{content:""; display:block; position:absolute; left:0; top:8px; width:320px; height:1px; background-color:#fff; opacity:0.5;}
+.btn_area .arr a{position:absolute; width:58px; height:23px; background-image:url(../images/main/img_mainVisual_all.png); background-repeat:no-repeat;}
+.btn_area .arr.next a{right:0; top:-15px; background-position:-120px -23px;}
+.btn_area .arr.next a::before{content:""; display:block; position:absolute; right:0; top:100%; width:58px; height:1px; background-color:#fff;}
+.btn_area .arr.prev a{left:0; top:-15px; background-position:-155px -0;}
+.btn_area .arr.prev a::before{content:""; display:block; position:absolute; left:0; top:100%; width:58px; height:1px; background-color:#fff;}
+.btn_area .btn_pause{padding-top:13px; margin:0 12px;}
+.btn_area .btn_pause a{width:37px; height:37px; background:url(../images/main/img_mainVisual_all.png) no-repeat -141px -95px;}
+.btn_area .btn_pause a:hover{background-position:-183px -95px;}
+.btn_area .btn_pause a.active{background-position:-94px -95px;}
+.btn_area .btn_pause a.active:hover{background-position:-183px -50px;}
+
+.scroll_area{padding-top:235px;}
+.scroll_area .mouse{display:inline-block; margin:0 auto;}
+.scroll_area .mouse a{display:block; width:30px; height:53px; background:url(../images/main/img_mainVisual_all.png) no-repeat -38px 0;}
+.scroll_area .txt{width:105px; height:16px; margin:18px auto 0; background:url(../images/main/img_mainVisual_all.png) no-repeat 0 -65px;}
+

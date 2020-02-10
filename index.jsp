@@ -16,7 +16,37 @@
         <%@ include file="include/header.jsp" %>
 
         <div class="visual">
-
+            <div class="inner">
+                <div class="visual_txt">
+                    <div class="txt_top">
+                        <span class="txt_motion">건강한 바다,</span><span class="txt_motion">풍요로운 미래,</span><span class="txt_motion">행복한 국민</span><br/>
+                        <span class="txt_motion eng">with KOEM</span>
+                    </div>
+                    <div class="txt_bottom">
+                        <span class="txt_motion first">
+                            깨끗한 해양을 지키기 위해 해양환경공단은 항상 노력하고 있습니다.<br/>
+                            깨끗한 환경을 지키는 것은 우리의 임무이자 의무입니다.
+                        </span>
+                    </div>
+                </div>
+                <div class="btn_area">
+                    <span class="arr prev">
+                        <a href="#">prev</a>
+                    </span>
+                    <span class="btn_pause">
+                        <a href="#">pause</a>
+                    </span>
+                    <span class="arr next">
+                        <a href="#">next</a>
+                    </span>
+                </div>
+                <div class="scroll_area">
+                    <span class="mouse">
+                        <a href="#"></a>
+                    </span>
+                    <p class="txt"></p>
+                </div>
+            </div>
         </div>
 
         <!-- main contents-->
