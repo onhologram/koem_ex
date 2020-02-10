@@ -26,7 +26,7 @@
                     <div class="sub_con">
                         test
                     </div>
-                    <%@ include file="include/sub_common/sub_footers.jsp" %>
+                    <%@ include file="include/sub_common/sub_footer.jsp" %>
                 </div>
                 <%@ include file="include/sub_common/sub_skip.jsp" %>
             </div>
