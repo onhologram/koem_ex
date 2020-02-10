@@ -33,3 +33,25 @@
 .scroll_area .mouse a{display:block; width:30px; height:53px; background:url(../images/main/img_mainVisual_all.png) no-repeat -38px 0;}
 .scroll_area .txt{width:105px; height:16px; margin:18px auto 0; background:url(../images/main/img_mainVisual_all.png) no-repeat 0 -65px;}
 
+/* quick menu */
+.quick_menu{position:fixed; right:0; top:0; height:100%; padding:200px 7px 0 7px; border-left:1px solid #428eb3;}
+.quick_menu .arrow_box{position:absolute; right:0; width:68px; height:68px; margin-top:23px; background: url(../images/main/img_mainArrowRight.gif) no-repeat 0 0;}
+.quick_menu .arrow_box a{display:block; height:100%;}
+.quick_menu .sns_box{position:absolute; top:360px; right:0; padding:10px 20px; background-color:transparent;}
+.quick_menu .sns_box li{padding:15px 0; border-top:1px solid #428eb3;}
+.quick_menu .sns_box li:nth-child(1){border:none;}
+.quick_menu .sns_box li a{display:block; background-repeat:no-repeat; background-image:url(../images/main/img_mainAside_all.png); margin:0 auto;}
+.quick_menu .sns_box li:nth-child(1) a{width:13px; height:16px; background-position:0 -142px;}
+.quick_menu .sns_box li:nth-child(2) a{width:11px; height:21px; background-position:-22px -140px;}
+.quick_menu .sns_box li:nth-child(3) a{width:16px; height:14px; background-position:-44px -143px;}
+.quick_menu .sns_box li:nth-child(4) a{width:13px; height:21px; background-position:-71px -140px;}
+.quick_menu .sns_box li:nth-child(5) a{width:18px; height:18px; background-position:-94px -140px;}
+.quick_menu .arrow_box a:hover{padding-left:10px;}
+
+.quick_menu.on{border-left:1px solid #ddd; background-color:#fff;}
+.quick_menu.on .sns_box li{border-top:1px solid #ddd;}
+.quick_menu.on .sns_box li:nth-child(1) a{background-position:0 -174px;}
+.quick_menu.on .sns_box li:nth-child(2) a{background-position:-22px -172px;}
+.quick_menu.on .sns_box li:nth-child(3) a{background-position:-44px -174px}
+.quick_menu.on .sns_box li:nth-child(4) a{background-position:-71px -172px;}
+.quick_menu.on .sns_box li:nth-child(5) a{background-position:-94px -173px;}

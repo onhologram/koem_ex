@@ -47,6 +47,23 @@
                     <p class="txt"></p>
                 </div>
             </div>
+            <div class="quick_menu">
+                <div class="img_box">
+                    <img src="resource/images/main/img_mainAsideTitle1.png" alt="">
+                </div>
+                <div class="arrow_box">
+                    <a href="#"></a>
+                </div>
+                <div class="sns_box">
+                    <ul>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                        <li><a href="#"></a></li>
+                    </ul>
+                </div>
+            </div>
         </div>
 
         <!-- main contents-->
