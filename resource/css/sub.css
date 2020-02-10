@@ -1,3 +1,5 @@
+@charset "utf-8";
+
 /* sub */
 .sub .bg{position:relative; width:100%; background-repeat:no-repeat; background-position:0 -60px;}
 .sub .bg .content{position: relative;}
