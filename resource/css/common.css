@@ -99,7 +99,7 @@ header{position:fixed; width:100%; height:100px; background:transparent; z-index
 
 
 
-.section{width:100%; height:500px;}
+.section{width:100%; min-height:500px;}
 
 
 /* footer */
