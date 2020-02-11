@@ -353,7 +353,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="more"><a href="#">more</a></div>
+                        <div class="more">
+                            <a href="#">more</a>
+                        </div>
                     </div>
                 </div>
             </div>
