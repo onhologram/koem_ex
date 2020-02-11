@@ -55,3 +55,12 @@
 .quick_menu.on .sns_box li:nth-child(3) a{background-position:-44px -174px}
 .quick_menu.on .sns_box li:nth-child(4) a{background-position:-71px -172px;}
 .quick_menu.on .sns_box li:nth-child(5) a{background-position:-94px -173px;}
+
+/* section */
+.section{margin-top:50px;}
+.section .inner{width:1580px; margin:0 auto;}
+.news_area{position:relative;}
+
+.news_area .tab_area .tab{overflow:hidden; }
+.news_area .tab_area .tab li{float:left;}
+.news_area .tab_area .tab li a{display:block; padding:0 20px; font-size:18px;}

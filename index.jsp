@@ -69,7 +69,303 @@
         <!-- main contents-->
         <main>
             <div class="section news">
-                보도자료
+                <div class="inner">
+                    <div class="news_area">
+                        <div class="tab_area">
+                            <ul class="tab">
+                                <li><a href="#">보도자료</a></li>
+                                <li><a href="#">공단소식</a></li>
+                                <li><a href="#">공지사항</a></li>
+                                <li><a href="#">FAQ</a></li>
+                            </ul>
+                            <div class="tab_cont">
+                                <ul>
+                                    <li>
+                                        <a href="#">
+                                            <div class="desc">
+                                                <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                <span>2020.02.05</span>
+                                            </div>
+                                            <div class="img_box">
+                                                <img src="resource/images/main/tab_img01.jpg" alt="">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시 해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab_cont">
+                                <ul>
+                                    <li>
+                                        <a href="#">
+                                            <div class="desc">
+                                                <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                <span>2020.02.05</span>
+                                            </div>
+                                            <div class="img_box">
+                                                <img src="resource/images/main/tab_img01.jpg" alt="">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시 해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab_cont">
+                                <ul>
+                                    <li>
+                                        <a href="#">
+                                            <div class="desc">
+                                                <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                <span>2020.02.05</span>
+                                            </div>
+                                            <div class="img_box">
+                                                <img src="resource/images/main/tab_img01.jpg" alt="">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시 해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab_cont">
+                                <ul>
+                                    <li>
+                                        <a href="#">
+                                            <div class="desc">
+                                                <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                <span>2020.02.05</span>
+                                            </div>
+                                            <div class="img_box">
+                                                <img src="resource/images/main/tab_img01.jpg" alt="">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시 해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <div class="desc">
+                                                    <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                    <span>2020.02.05</span>
+                                                </div>
+                                                <div class="img_box">
+                                                    <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                </div>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <a href="#">
+                                                <a href="#">
+                                                    <div class="desc">
+                                                        <p>해양환경공단, 2020년도 해양환경 측정망 조사 실시</p>
+                                                        <span>2020.02.05</span>
+                                                    </div>
+                                                    <div class="img_box">
+                                                        <img src="resource/images/main/tab_img01.jpg" alt="">
+                                                    </div>
+                                                </a>
+                                            </a>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="more"><a href="#">more</a></div>
+                    </div>
+                </div>
             </div>
             <div class="section sns">
                 SNS
