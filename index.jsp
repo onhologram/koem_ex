@@ -380,10 +380,80 @@
                 </div>
             </div>
             <div class="section sns">
-                SNS
+                <div class="inner">
+                    <h3>KOEM SNS</h3>
+                </div>
+                <div class="sns_wrap">
+                    <ul class="sns_slide">
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <img src="resource/images/main/sns_img.jpg" alt="">
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon fb"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon fb"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="sns_btn">
+                        <a href="#" class="sns_arr prev">prev</a>
+                        <a href="#" class="sns_arr next">next</a>
+                    </div>
+                </div>
             </div>
-            <div class="section notice">
-                홍보동영상
+            <div class="section notice" style="background-color: black;">
+                <a href="#" class="btn1">prev</a>
+                <a href="#" class="btn2">prev</a>
+                <a href="#" class="btn22">prev</a>
+                <a href="#" class="btn23">prev</a>
+                <a href="#" class="btn24">prev</a>
+                <a href="#" class="btn25">prev</a>
             </div>
             <div class="sectionn">
                 롤링배너

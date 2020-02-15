@@ -56,7 +56,9 @@
 .quick_menu.on .sns_box li:nth-child(4) a{background-position:-71px -172px;}
 .quick_menu.on .sns_box li:nth-child(5) a{background-position:-94px -173px;}
 
-/* section news*/
+.section{margin-top:100px;}
+
+/* news*/
 .section.news{margin-top:20px;}
 .section .inner{width:1580px; margin:0 auto;}
 .news_area{position:relative;}
@@ -110,3 +112,27 @@
 .roll_area .right .num_wrap .first{font-size:18px; color:#005cb9; font-weight:600;}
 .roll_area .right .num_wrap .sum{position:relative; padding-left:15px;}
 .roll_area .right .num_wrap .sum::before{content:"/"; display:block; position:absolute; left:3px; top:0;}
+
+/* sns */
+.section.sns .inner h3{text-align:center; font-size:48px;}
+.section.sns .sns_wrap{margin-top:50px;}
+.section.sns .sns_wrap ul{width:100%;}
+.section.sns .sns_wrap ul::after{content:""; display:block; clear:both;}
+.section.sns .sns_wrap ul li{float:left; width:260px; height:260px;}
+
+.sns_icon{display:inline-block; width:34px; height:34px; background:url(../images/common/icon_common_all.png) no-repeat;}
+.sns_icon.blog{background-position: 0 -400px;}
+.sns_icon.fb{background-position: -80px -400px;}
+
+.sns_arr{display:block; width:56px; height:56px; background:url(../images/common/icon_common_all.png) no-repeat;}
+.sns_arr.prev{background-position: -44px -200px;}
+.sns_arr.next{background-position: -44px -256px;}
+
+.btn1{display:block; width:40px; height:40px; background:url(../images/common/icon_mainBotArea_all.png) no-repeat 0 0;}
+.btn2{display:block; width:40px; height:40px; background:url(../images/common/icon_mainBotArea_all.png) no-repeat -41px 0;}
+.btn22{display:block; width:9px; height:15px; background:url(../images/common/icon_mainBotArea_all.png) no-repeat -86px 0;}
+.btn23{display:block; width:9px; height:15px; background:url(../images/common/icon_mainBotArea_all.png) no-repeat -99px 0;}
+.btn24{display:block; width:9px; height:15px; background:url(../images/common/icon_mainBotArea_all.png) no-repeat -112px 0;}
+.btn25{display:block; width:9px; height:15px; background:url(../images/common/icon_mainBotArea_all.png) no-repeat -124px 0;}
+.btn3{display:block; width:80px; height:70px; background:url(../images/main/bg_mainBotArea_item3.png) no-repeat 0 0;}
+.btn4{display:block; width:80px; height:70px; background:url(../images/main/bg_mainBotArea_item3.png) no-repeat 0 -93px;}
