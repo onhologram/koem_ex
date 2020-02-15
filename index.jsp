@@ -357,6 +357,26 @@
                             <a href="#">more</a>
                         </div>
                     </div>
+                    <div class="roll_area">
+                        <div class="roll_tit">
+                            <span>방제조치현황</span>
+                        </div>
+                        <div class="roll_cont">
+                            <div class="roll_txt">
+                                <div class="left">
+                                    <div class="bullet">[20.1.31.] 목포지사 오염사고 조치</div>
+                                </div>
+                                <div class="right">
+                                    <a href="#" class="arr prev">prev</a>
+                                    <div class="num_wrap">
+                                        <span class="num first">1</span>
+                                        <span class="num sum">5</span>
+                                    </div>
+                                    <a href="#" class="arr next">next</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="section sns">
