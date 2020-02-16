@@ -538,6 +538,19 @@
                             </div>
                         </div>
                     </div>
+                    <div class="call_area">
+                        <div class="left">
+                            <div class="txt">
+                                <p>해양오염사고 신고전화</p>
+                            </div>
+                            <div class="call_num">
+                                02-3498-8600     
+                            </div>
+                        </div>
+                        <div class="right">
+
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="section">
