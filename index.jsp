@@ -386,7 +386,7 @@
                 <div class="sns_wrap">
                     <ul class="sns_slide">
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
                                 <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
@@ -399,63 +399,148 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
                                 <span class="date">2020.01.31 16:20:24</span><span class="sns_icon fb"></span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
-                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon fb"></span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
-                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
-                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
-                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
                                 <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
-                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon"></span>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon fb"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="bg">
+                                <h4>해양환경공단 창립기념일 생일 축하海</h4>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
                             </a>
                         </li>
                     </ul>
-                    <div class="sns_btn">
-                        <a href="#" class="sns_arr prev">prev</a>
-                        <a href="#" class="sns_arr next">next</a>
+                </div>
+                <div class="sns_btn">
+                    <a href="#" class="sns_arr prev">prev</a>
+                    <a href="#" class="sns_arr next">next</a>
+                </div>
+            </div>
+            <div class="section notice">
+                <div class="inner">
+                    <div class="promo_group">
+                        <div class="youtube_area">
+
+                        </div>
+                      
+                        <div class="notice_area main">
+                            <div class="top">
+                                <h4>투명한 KOEM</h4>
+                                <p>해양환경공단은<br/>국민의 신뢰와 고객만족을 최우선으로 합니다</p>
+                            </div>
+                            <div class="bottom">
+                                <ul class="bullet">
+                                    <li><a href="#">공익신고</a></li>
+                                    <li><a href="#">사전정보공표</a></li>
+                                    <li><a href="#">청렴윤리 자료실</a></li>
+                                    <li><a href="#">부정부패 신고센터</a></li>
+                                    <li><a href="#">시책평가 청렴도</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="notice_area sub">
+                            <ul>
+                                <li>
+                                    <a href="#">
+                                        <h4>해맑은 이야기</h4>
+                                        <p>
+                                            해양환경공단에서 계간<br/>
+                                            발행되는 사보를 소개합니다.
+                                        </p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <h4>채용공고</h4>
+                                        <p>
+                                            해양환경공단은 여러분을<br/>
+                                            기다리고 있습니다.
+                                        </p>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="#">
+                                        <h4>KOEM Q&amp;A BOOK</h4>
+                                        <p>
+                                            해양환경공단 사업에 대한<br/>
+                                            질의응답 &amp; 용어해설집
+                                        </p>
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                       
+                        <div class="know_area">
+                            <div class="know_head">
+                                <h4>알림존</h4>
+                            </div>
+                            <div class="slide_wrap">
+                                <ul class="slide_group">
+                                    <li>
+                                        <a href="#">
+                                            <img src="resource/images/main/know_img01.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="resource/images/main/know_img02.jpg" alt="">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <img src="resource/images/main/know_img03.jpg" alt="">
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="slide_btn">
+                                <a href="#" class="btn prev">prev</a>
+                                <a href="#" class="btn pause">pause</a>
+                                <a href="#" class="btn next">next</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="section notice" style="background-color: black;">
-                <a href="#" class="btn1">prev</a>
-                <a href="#" class="btn2">prev</a>
-                <a href="#" class="btn22">prev</a>
-                <a href="#" class="btn23">prev</a>
-                <a href="#" class="btn24">prev</a>
-                <a href="#" class="btn25">prev</a>
-            </div>
-            <div class="sectionn">
+            <div class="section">
                 롤링배너
             </div>
         </main>

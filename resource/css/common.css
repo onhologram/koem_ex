@@ -97,10 +97,7 @@ header{position:fixed; width:100%; height:100px; background:transparent; z-index
 .header.active .util .util_group ul li .sitemap_pop{background-position:-50px -452px;}
 
 
-
-
-.section{width:100%; min-height:500px;}
-
+.section{width:100%; min-height:400px;}
 
 /* footer */
 .footer_top{padding:40px 0 30px; background-color:#1c1f2b;}
