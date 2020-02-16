@@ -130,7 +130,7 @@
 .sns_icon{position:absolute; right:20px; bottom:20px; width:34px; height:34px; background:url(../images/common/icon_common_all.png) no-repeat;}
 .sns_icon.blog{background-position: 0 -400px;}
 .sns_icon.fb{background-position: -80px -400px;}
-.sns_btn{position:absolute; top:50%; width:100%; height:56px; margin:0 auto;  transform:translateY(-50%);}
+.sns_btn{position:absolute; top:50%; width:100%; height:56px; margin-top:50px;  transform:translateY(-50%);}
 .sns_arr{display:block; position:absolute; width:56px; height:56px; background:url(../images/common/icon_common_all.png) no-repeat; text-indent:-99999px;}
 .sns_arr.prev{left:130px; background-position: -44px -200px;}
 .sns_arr.next{right:130px; background-position: -44px -256px;}
