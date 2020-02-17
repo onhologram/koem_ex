@@ -184,6 +184,14 @@
 .call_area .left{float:left;}
 .call_area .right{float:right;}
 
+/* banner */
+.section.banner{margin-top:35px;}
+.section.banner .inner{padding:0 72px; box-sizing:border-box;}
+.banner_list{overflow:hidden;}
+.banner_list li{float:left; width:200px; margin-left:6px;}
+.banner_list li:nth-child(1){margin-left:0;}
+.banner_list li a{display:block; height:58px; border:1px solid #ddd;}
+.banner_list li a:hover{border:2px solid #005cb9;}
 
 
 

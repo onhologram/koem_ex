@@ -556,8 +556,32 @@
                     </div>
                 </div>
             </div>
-            <div class="section">
-                롤링배너
+            <div class="section banner">
+                <div class="inner">
+                    <ul class="banner_list">
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                        </li>
+                        <li>
+                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </main>
 
