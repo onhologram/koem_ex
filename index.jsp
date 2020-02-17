@@ -458,7 +458,9 @@
                 <div class="inner">
                     <div class="promo_group">
                         <div class="youtube_area">
-
+                            <div id="video_area">
+                                <iframe width="440" height="400" src="https://www.youtube.com/embed/bilR0bNdmwY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                            </div>
                         </div>
                         <div class="notice_area main">
                             <div class="top">
@@ -584,7 +586,6 @@
                 </div>
             </div>
         </main>
-
         <!-- footer -->
         <%@ include file="include/footer.jsp" %>
     </div><!--//wrap -->
