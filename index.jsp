@@ -460,7 +460,6 @@
                         <div class="youtube_area">
 
                         </div>
-                      
                         <div class="notice_area main">
                             <div class="top">
                                 <h4>투명한 KOEM</h4>
@@ -507,7 +506,6 @@
                                 </li>
                             </ul>
                         </div>
-                       
                         <div class="know_area">
                             <div class="know_head">
                                 <h4>알림존</h4>
@@ -539,16 +537,21 @@
                         </div>
                     </div>
                     <div class="call_area">
-                        <div class="left">
+                        <div class="item left">
                             <div class="txt">
                                 <p>해양오염사고 신고전화</p>
                             </div>
                             <div class="call_num">
-                                02-3498-8600     
+                                <span>02-3498-8600</span>   
                             </div>
                         </div>
-                        <div class="right">
-
+                        <div class="item right">
+                            <div class="txt">
+                                <p>방제분담금센터 연락처</p>
+                            </div>
+                            <div class="call_num">
+                                <span>02-3498-7111~2</span>   
+                            </div>
                         </div>
                     </div>
                 </div>
