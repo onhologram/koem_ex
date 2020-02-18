@@ -60,9 +60,11 @@
 .sub_footer .bottom .second{margin-left:110px; padding:10px 0; box-sizing:border-box;}
 .sub_footer .bottom .second>div{float:left;}
 .sub_footer .bottom .second .score_group{padding-top:5px;}
-.sub_footer .bottom .second .score_group .score_item{display:inline-block; margin-left:20px; font-size:15px;}
+.sub_footer .bottom .second .score_group .score_item{display:inline-block; margin-left:20px; font-size:0;}
 .sub_footer .bottom .second .score_group .score_item:nth-child(1){margin-left:0;}
-.sub_footer .bottom .second .score_group .score_item img{padding-top:2px;}
+.sub_footer .bottom .second .score_group .score_item label{display:inline-block;}
+.sub_footer .bottom .second .score_group .score_item label span{margin:0 5px; font-size:14px;}
+.sub_footer .bottom .second .score_group .score_item img{display:inline-block; width:70px; padding-top:2px;}
 .sub_footer .bottom .second .score_btn{margin-left:70px;}
 .sub_footer .bottom .second .score_btn a{display:inline-block; padding:10px 16px; box-sizing:border-box; background-color:#162b58; color:#fff; font-size:14px;}
 

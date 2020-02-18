@@ -23,35 +23,35 @@
         <div class="second">
             <div class="score_group">
                 <span class="score_item">
-                    <input type="radio" id="star1" value="">
+                    <input type="radio" id="star1" name="starScore" value="">
                     <label for="star1">
                         <span>매우만족</span>
                         <img src="resource/images/sub/icon_satisfy_check1.png" alt="">
                     </label>
                 </span>
                 <span class="score_item">
-                    <input type="radio" id="star2" value="">
+                    <input type="radio" id="star2" name="starScore" value="">
                     <label for="star2">
                         <span>만족</span>
                         <img src="resource/images/sub/icon_satisfy_check2.png" alt="">
                     </label>
                 </span>
                 <span class="score_item">
-                    <input type="radio" id="star3" value="">
+                    <input type="radio" id="star3" name="starScore" value="">
                     <label for="star3">
                         <span>보통</span>
                         <img src="resource/images/sub/icon_satisfy_check3.png" alt="">
                     </label>
                 </span>
                 <span class="score_item">
-                    <input type="radio" id="star4" value="">
+                    <input type="radio" id="star4" name="starScore" value="">
                     <label for="star4">
                         <span>불만족</span>
                         <img src="resource/images/sub/icon_satisfy_check4.png" alt="">
                     </label>
                 </span>
                 <span class="score_item">
-                    <input type="radio" id="star5" value="">
+                    <input type="radio" id="star5" name="starScore" value="">
                     <label for="star5">
                         <span>매우 불만족</span>
                         <img src="resource/images/sub/icon_satisfy_check5.png" alt="">
