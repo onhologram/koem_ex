@@ -139,6 +139,126 @@
                                 </p>
                             </div>
                         </div>
+                        <div class="section">
+                            <div class="head_area">
+                                <h4>정보공개방법</h4>
+                            </div>
+                            <div class="content_area">
+                                <div class="group">
+                                    <h5>공개원칙</h5>
+                                    <p>
+                                        공공기관이 정보의 공개를 결정한 경우에는 청구인에게 통지한 공개일시·공개장소에서 원본으로 공개함이 원칙입니다. 다만, 청구인 본인 또는 그 대리인을 직접 확인할 필요<br/>가 없는 경우에는 청구인의 요청에 의하여 우편·모사전송 또는 전자통신망을 이용하여 송부할 수 있습니다.
+                                    </p>
+                                </div>
+                                <div class="group">
+                                    <h5>공개방법</h5>
+                                    <p>공개대상별 공개방법은 다음과 같습니다.</p>
+                                    
+                                    <table class="common_table">
+                                        <caption>공개대상별 공개방법 설명 테이블</caption>
+                                        <colgroup>
+                                            <col style="width:360px;">
+                                            <col style="width:840px;">
+                                        </colgroup>
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">공개대상</th>
+                                                <th scope="col">공개방법</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>문서, 도면, 사진</td>
+                                                <td>열람 또는 사본의 교부</td>
+                                            </tr>
+                                            <tr>
+                                                <td>필름, 테이프</td>
+                                                <td>시청 또는 인화물 &middot; 복제물의 교부</td>
+                                            </tr>
+                                            <tr>
+                                                <td>마이크로필름, 슬라이드</td>
+                                                <td>열람 또는 사본 &middot; 복제물의 교부</td>
+                                            </tr>
+                                            <tr>
+                                                <td>전자적 형태로 보유 &middot; 관리하는 정</td>
+                                                <td>파일을 복제하여 전자우편으로 송부, 열람 &middot; 시청 또는 사본  &middot; 출력물의 교부</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="group">
+                                    <h5>공개종류</h5>
+                                    <table class="common_table">
+                                        <caption>공개종류 설명 테이블</caption>
+                                        <colgroup>
+                                            <col style="width:240px;">
+                                            <col style="width:960px;">
+                                        </colgroup>
+                                        <tbody>
+                                            <tr>
+                                                <th scope="row">공개</th>
+                                                <td>정보공개를 원본으로 하는 것이 원칙으로 하며, 정보를 공개함에 있어 정보의 원본이 오손되거나 파손될 우려가 있는 경우에는 사본으로 공개가 가능합니다.</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">부분공개</th>
+                                                <td>비공개정보와 공개정보가 혼합되어 분리 가능한 경우에 공개취지에 부합되는 때에는 부분공개가 가능합니다.</td>
+                                            </tr>
+                                            <tr>
+                                                <th scope="row">즉시공개</th>
+                                                <td>공개여부 결정절차 없이 즉시 또는 구술로 처리가 가능한 정보는 별도의 절차 없이 즉시 공개합니다.</td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section">
+                            <div class="head_area">
+                                <h4>정보공개 청구 및<br/> 처리절차</h4>
+                            </div>
+                            <div class="content_area">
+                                <div class="group">
+                                    <div class="img_box">
+                                        <img src="resource/images/sub/img_sub1_1_1_1.jpg" alt="">
+                                    </div>
+                                    <h5>정보공개 청구방법</h5>
+                                    <ul class="bullet">
+                                        <li>정보공개사이트를 이용하여 신청 가능합니다.</li>
+                                        <li>
+                                            직접방문 또는 우편이나 모사전송(FAX)를 이용하여 제출할 수 있습니다.
+                                            <ul>
+                                                <li>주소 : 우)05718 서울특별시 송파구 송파대로 28길 28 운영지원팀 정보공개 담당자</li>
+                                                <li>모사전송 : 02-3462-7707</li>
+                                                <li>문의사항 : 02-3498-8500</li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="group">
+                                    <h5>정보공개 처리절차</h5>
+                                    <div class="img_box">
+                                        <img src="resource/images/sub/img_sub1_1_1_2.jpg" alt="">
+                                    </div>
+                                </div>
+                                <div class="group">
+                                    <h5>정보공개심의회 운영</h5>
+                                    <ul class="bullet">
+                                        <li>
+                                            공단은 정보공개 청구에 대한 전문성·공정성·신뢰성 확보를 위해 정보공개 심의회를 구성하여 운영 중에 있습니다.
+                                            <ul class="sub_list">
+                                                <li>구성 : 6명 (위원장 1명, 내부위원 2명, 외부위원 3명)</li>
+                                                <li>심의내용 : 정보의 공개여부를 결정하기 곤란한 사항
+                                                    <ul>
+                                                        <li>청구인 또는 제 3자의 이의신청</li>
+                                                        <li>그 밖의 정보공개제도의 운영에 관한 사항</li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                     <%@ include file="include/sub_common/sub_footer.jsp" %>
                 </div>
