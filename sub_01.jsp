@@ -272,7 +272,17 @@
     </div><!--//wrap -->
     <!-- popup -->
     <div class="pop_bg">
-        레이어팝업
+        <div class="pop_wrap">
+            <div class="popup">
+                <div class="pop_head">
+                    <p>정보공개규정</p>
+                </div>
+                <div class="pop_body">
+
+                </div>
+            </div>
+        </div>
     </div>
+    <!-- //popup -->
 </body>
-</html>
+</html>삼성전기 운영 > 3월 뉴스레터 제작 요청
