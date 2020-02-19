@@ -25,15 +25,17 @@
                     </div>
                     <div class="sub_con">
                         <div class="section top">
-                            <div class="subtit_wrap">
-                                <div class="subtit">
-                                    <span>정보공개제도란?</span>
-                                    <p>국민의 알권리를 보장하고 국정에 대한 국민의 참여와 국정 운영의 투명성을 위하여 재정된 「공공기관의 정보공개에 관한 법률」에
-                                        의거하여 공공기관이 보유 &middot; 관리 하는 정보를 국민의 공개하는 제도입니다.
-                                    </p>
-                                </div>
-                                <div class="btn_area">
-                                    <a href="#" class="btn_pop">정보공개규정 보기</a>
+                            <div class="border_box">
+                                <div class="subtit_wrap">
+                                    <div class="subtit">
+                                        <span>정보공개제도란?</span>
+                                        <p>국민의 알권리를 보장하고 국정에 대한 국민의 참여와 국정 운영의 투명성을 위하여 재정된 「공공기관의 정보공개에 관한 법률」에
+                                            의거하여 공공기관이 보유 &middot; 관리 하는 정보를 국민의 공개하는 제도입니다.
+                                        </p>
+                                    </div>
+                                    <div class="btn_area">
+                                        <a href="#" class="btn_pop">정보공개규정 보기</a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -153,7 +155,7 @@
                                 <div class="group">
                                     <h5>공개방법</h5>
                                     <p>공개대상별 공개방법은 다음과 같습니다.</p>
-                                    
+
                                     <table class="common_table">
                                         <caption>공개대상별 공개방법 설명 테이블</caption>
                                         <colgroup>
