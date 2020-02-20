@@ -148,11 +148,35 @@ ul.bar_list>li{position:relative; padding-left:10px; font-size:16px; line-height
 ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transform:translateY(-50%);}
 
 .common_table{border-top:2px solid #162b58;}
-/* .common_table thead tr{background-color:#f6f6f6;} */
 .common_table th, .common_table td{padding:16px 0; text-align:center; font-size:16px; box-sizing:border-box;}
 .common_table th{border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5; background-color:#f6f6f6;}
 .common_table td{border-left:1px solid #e5e5e5; border-right:1px solid #e5e5e5; border-bottom:1px solid #e5e5e5; padding-left:20px;}
 .common_table tr:nth-child(1){border-top:1px solid #929bad;}
+
+/* 레이어팝업 */
+.pop_bg{position:fixed; left:0; top:0; width:100%; height:100%; background-color:rgba(1,1,1,.5); z-index:999;}
+.pop_wrap{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); width:900px; height:800px;}
+.popup{position:relative;}
+.pop_head{height:45px; padding:13px 20px; background-color:#484c51; box-sizing:border-box;}
+.pop_head p{color:#fff; font-weight:600; font-size:15px;}
+.pop_body{padding:40px 20px; height:740px; overflow-y:auto; background-color:#fff; box-sizing:border-box;}
+.pop_body .step{margin-top:30px;}
+.pop_body .step:nth-child(1){margin-top:0;}
+.pop_body .step h5{font-size:20px; font-weight:600; color:#222;}
+.pop_body .step ol{margin-top:10px;}
+.pop_body .step ol>li{margin-top:20px;}
+.pop_body .step ol>li:nth-child(1){margin-top:0;}
+.pop_body .step ol>li>span{position:relative; display:inline-block; padding-left:12px; font-size:15px; color:#4287b6; font-weight:600;}
+.pop_body .step ol>li>span::before{content:""; display:block; position:absolute; left:0; top:50%; transform:translateY(-50%); width:4px; height:5px; background: url(../images/sub/bullet_contentwrap_dt_arrow.png) no-repeat 0 0;}
+.pop_body .step ol>li .bullet{margin-top:10px;}
+.pop_body .step ol>li .bullet li{position:relative; padding-left:10px; font-size:13px; margin-top:5px;}
+.pop_body .step ol>li .bullet li:nth-child(1){margin-top:0;}
+.pop_body .step ol>li .bullet li:nth-child(1)::before{content:""; display:block; position:absolute; left:0; top:7px; width:2px; height:2px; background-color:#222;}
+.popup .pop_close{position:absolute; right:15px; top:15px; width:15px; height:15px; background:url(../images/sub/btn_modalClose.png) no-repeat 0 0; text-indent:-9999px;}
+
+
+
+
 
 
 
