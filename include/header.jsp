@@ -2,17 +2,17 @@
 <header>
     <div class="header">
         <h1>
-            <a href="#">
+            <a href="/index.jsp">
                 <img src="resource/images/common/img_logo.png" alt="KOEM 해양환경공단 로고">
             </a>
         </h1>
         <div class="gnb" id="gnb">
             <ul>
                 <li>
-                    <a href="#" class="gnb_tit">정보공개</a>
+                    <a href="/sub_01.jsp" class="gnb_tit">정보공개</a>
                 </li>
                 <li>
-                    <a href="#" class="gnb_tit">소통참여</a>
+                    <a href="/sub_02.jsp" class="gnb_tit">소통참여</a>
                 </li>
                 <li>
                     <a href="#" class="gnb_tit">소식정보</a>
