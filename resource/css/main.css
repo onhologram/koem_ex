@@ -127,6 +127,7 @@
 .section.sns .sns_wrap ul li a p{margin-top:40px; font-size:14px;}
 .section.sns .sns_wrap ul li a span{display:inline-block;}
 .section.sns .sns_wrap ul li a .date{margin-top:20px; font-size:14px;}
+.section.sns .sns_wrap ul li a img{width:100%;}
 .sns_icon{position:absolute; right:20px; bottom:20px; width:34px; height:34px; background:url(../images/common/icon_common_all.png) no-repeat;}
 .sns_icon.blog{background-position: 0 -400px;}
 .sns_icon.fb{background-position: -80px -400px;}

@@ -4,6 +4,7 @@
 .sub .bg{position:relative; width:100%; background-repeat:no-repeat; background-position:0 -60px;}
 .sub .bg.info{background-image: url(../images/sub/sub_bg_01.jpg);}
 .sub .bg.notice{background-image: url(../images/sub/sub_bg_02.jpg);}
+.sub .bg.business{background-image: url(../images/sub/sub_bg_03.jpg);}
 .sub .bg .content{position: relative;}
 .sub .bg .inner{width:1580px; margin:0 auto;}
 .sub .bg .inner h2{padding-top:200px; text-align:center; font-size:50px; font-weight:600; color:#fff;}

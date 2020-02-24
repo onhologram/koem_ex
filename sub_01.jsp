@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="resource/css/sub.css">
 </head>
 <body class="sub">
-    <div id="wrap" class="wrap">
+    <div id="wrap">
         <%@ include file="include/header.jsp" %>
         <div class="bg info">
             <div class="inner">

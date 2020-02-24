@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="resource/css/main.css">
 </head>
 <body>
-    <div id="wrap" class="wrap">
+    <div id="wrap">
         <!-- header -->
         <%@ include file="include/header.jsp" %>
 
@@ -544,7 +544,7 @@
                                 <p>해양오염사고 신고전화</p>
                             </div>
                             <div class="call_num">
-                                <span>02-3498-8600</span>   
+                                <span>02-3498-8600</span>
                             </div>
                         </div>
                         <div class="item right">
@@ -552,7 +552,7 @@
                                 <p>방제분담금센터 연락처</p>
                             </div>
                             <div class="call_num">
-                                <span>02-3498-7111~2</span>   
+                                <span>02-3498-7111~2</span>
                             </div>
                         </div>
                     </div>
