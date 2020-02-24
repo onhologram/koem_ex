@@ -193,6 +193,7 @@
 .banner_list li:nth-child(1){margin-left:0;}
 .banner_list li a{display:block; height:58px; border:1px solid #ddd;}
 .banner_list li a:hover{border:2px solid #005cb9;}
+.banner_list li a img{width:100%;}
 
 
 
