@@ -12,13 +12,13 @@
                     <a href="/sub_01.jsp" class="gnb_tit">정보공개</a>
                 </li>
                 <li>
-                    <a href="/sub_02.jsp" class="gnb_tit">소통참여</a>
+                    <a href="#" class="gnb_tit">소통참여</a>
                 </li>
                 <li>
-                    <a href="#" class="gnb_tit">소식정보</a>
+                    <a href="/sub_02.jsp" class="gnb_tit">소식정보</a>
                 </li>
                 <li>
-                    <a href="#" class="gnb_tit">사업안내</a>
+                    <a href="/sub_03.jsp" class="gnb_tit">사업안내</a>
                 </li>
                 <li>
                     <a href="#" class="gnb_tit">공단소개</a>
