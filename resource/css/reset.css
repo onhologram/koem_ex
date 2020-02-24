@@ -9,10 +9,9 @@ body,input,select,textarea,button {border:none; font-size:14px;}
 ul,ol,li{list-style:none;}
 table{width:100%; border-spacing:0; border-collapse:collapse;}
 img,fieldset{border:0;}
-address,cite,code,em{font-style:normal; font-weight:normal;}
 label,input,select,textarea,button{vertical-align:middle;}
 img{vertical-align:top; /*width:100%;*/}
-.hide,caption,legend{line-height:0; font-size:1px; overflow:hidden;}
+caption,legend{line-height:0; font-size:1px; overflow:hidden;}
 hr{display:none;}
 main,header,section,nav,footer,aside,article,figure{display:block;}
 a{color:#000; text-decoration:none;}
