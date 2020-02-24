@@ -18,7 +18,8 @@
          url('../fonts/NanumGothic-Bold.ttf') format('truetype');
 }
 
-/* .wrap{position:relative;} */
+body{overflow-x:hidden;}
+
 header{position:fixed; width:100%; height:100px; background:transparent; z-index:1;}
 .header{position:relative; width:1580px; height:100%; margin:0 auto;}
 .header::after{content:""; display:block; clear:both;}
