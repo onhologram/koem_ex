@@ -197,6 +197,8 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .notice_table tr th{border-bottom:1px solid #929bad;}
 .notice_table tr td{border-bottom:1px solid #e5e5e5;}
 .notice_table tr td.text_left{text-align:left;}
+.notice_table tr td.text_left a{display:block;}
+.notice_table tr td.text_left a:hover{text-decoration:underline;}
 
 .paging_wrap{margin-top:60px;}
 .paging{width:600px; margin:0 auto;}

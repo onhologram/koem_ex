@@ -68,7 +68,9 @@
                             <tbody>
                                 <tr>
                                     <td>10</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -77,7 +79,9 @@
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -86,7 +90,9 @@
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -95,7 +101,9 @@
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -104,7 +112,9 @@
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -113,7 +123,9 @@
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="#">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -122,7 +134,9 @@
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="#">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -131,7 +145,9 @@
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="#">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -140,7 +156,9 @@
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="#">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
@@ -149,7 +167,9 @@
                                 </tr>
                                 <tr>
                                     <td>1</td>
-                                    <td class="text_left">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</td>
+                                    <td class="text_left">
+                                        <a href="#">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                    </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
                                     <td class="attach">
