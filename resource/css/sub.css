@@ -1,6 +1,7 @@
 @charset "utf-8";
 
 /* sub */
+.sub .sub_con ul li{font-size:16px;}
 .sub .bg{position:relative; width:100%; background-repeat:no-repeat; background-position:0 -60px;}
 .sub .bg.info{background-image: url(../images/sub/sub_bg_01.jpg);}
 .sub .bg.notice{background-image: url(../images/sub/sub_bg_02.jpg);}
@@ -253,3 +254,25 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .btn_wrap .center a{width:120px; padding-left:58px; font-size:17px; background:#005cb9;}
 .btn_wrap .center a::before{left:30px; width:15px; height:15px; background:url(../images/sub/icon_moveList_btnList.png) no-repeat;}
 
+/* 서브03 사업안내 - 해양기후변화대응 */
+.visual_area{margin:0 60px; height:478px;}
+.visual_inner{position:relative; width:1300px; height:418px; background: url(../images/sub/img_sub4_1_5_1.jpg) no-repeat 0 0;}
+.visual_inner .cont_box{overflow:hidden; position:absolute; right:-80px; top:130px; width:990px; padding:50px 60px; box-sizing:border-box; background-color:#192c55;}
+.visual_inner .cont_box .img_box{float:left;}
+.visual_inner .cont_box dl{float:left; width:490px; margin-left:40px; color:#fff;}
+.visual_inner .cont_box dl dt{font-size:30px; font-weight:600;}
+.visual_inner .cont_box dl dd{margin-top:35px; font-size:15px; line-height:1.5;}
+
+.bullet_list li{position:relative; padding-left:10px; margin-top:5px;}
+.bullet_list li:nth-child(1){margin-top:0;}
+.bullet_list li::before{content:""; display:block; position:absolute; left:0; top:50%; transform:translateY(-50%); width:3px; height:3px; background-color:#222; }
+
+.progress_group{overflow:hidden; margin-top:20px;}
+.progress_group:nth-child(1){margin-top:0; padding-bottom:250px;}
+.progress_group .bg_area{position:relative; float:left; width:160px; height:160px; color:#fff; text-align:center; line-height:160px; font-size:18px; font-weight:600; background: no-repeat 0 0;}
+.progress_group:nth-child(1) .bg_area{background: url(../images/sub/bg_yearList_row1.png);}
+.progress_group:nth-child(1) .bg_area::before{content:""; display:block; position:absolute; left:50%; bottom:-280px; transform: translateX(-50%); width:59px; height:380px; background: url(../images/sub/bg_yearList_row_arrow.png) no-repeat 0 0;}
+.progress_group:nth-child(2) .bg_area{background: url(../images/sub/bg_yearList_row2.png);}
+.progress_group:nth-child(3) .bg_area{background: url(../images/sub/bg_yearList_row3.png);}
+.progress_group:nth-child(4) .bg_area{background: url(../images/sub/bg_yearList_row4.png);}
+.progress_group .desc_box{float:left; padding-left:55px;}
