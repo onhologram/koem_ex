@@ -134,7 +134,6 @@
                                         </li>
                                     </ul>
                                 </div>
-
                                 <div class="sec">
                                     <table class="common_table">
                                         <caption>주요사업내용 설명 테이블</caption>
@@ -181,6 +180,34 @@
                                             </tr>
                                         </tbody>
                                     </table>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="section">
+                            <div class="head_area">
+                                <h4>연차별 추진 계획</h4>
+                            </div>
+                            <div class="content_area">
+                                <div class="sort_area">
+                                    <div class="sort_head">
+                                        <ul>
+                                            <li>대분류</li>
+                                            <li>중분류</li>
+                                            <li>도입기(2017)</li>
+                                            <li>확산기(2018~19)</li>
+                                            <li>정착기(2020~21)</li>
+                                        </ul>
+                                    </div>
+                                    <div class="sort_body">
+                                        <div class="sort_sec">
+                                            <div class="sort_group color">
+
+                                            </div>
+                                            <div class="sort_group">
+
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
