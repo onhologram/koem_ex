@@ -201,10 +201,32 @@
                                     <div class="sort_body">
                                         <div class="sort_sec">
                                             <div class="sort_group color">
-
+                                                <div class="item first">
+                                                    <span>전략1</span>
+                                                    <span>온실가스<br/>통계관리</span>
+                                                </div>
+                                                <div class="item second">
+                                                    <ul class="sort_list">
+                                                        <li>통계생산</li>
+                                                        <li>품질관리</li>
+                                                        <li>통합관리</li>
+                                                    </ul>
+                                                </div>
                                             </div>
                                             <div class="sort_group">
-
+                                                <div class="item long">국가 온실가스 배출량산정 및 보고</div>
+                                                <div class="half_area">
+                                                    <div class="item">통계 및 배출계수<br/>품질 진단</div>
+                                                    <div class="item mid">활동자료 관리체계 개발 및 현장조사</div>
+                                                </div>
+                                                <div class="half_area">
+                                                    <div class="item">통합관리<br/>기반 구축</div>
+                                                    <div class="half_area sub">
+                                                        <div class="item">DB구축</div>
+                                                        <div class="item">통합관리시스템 개발</div>
+                                                        <div class="item sp">통계자료 MEIS연계</div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
