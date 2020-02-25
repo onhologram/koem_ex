@@ -266,10 +266,10 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .bullet_list li{position:relative; padding-left:10px; margin-top:5px;}
 .bullet_list li:nth-child(1){margin-top:0;}
 .bullet_list li::before{content:""; display:block; position:absolute; left:0; top:50%; transform:translateY(-50%); width:3px; height:3px; background-color:#222; }
+.bullet_list.left li{text-align:left;}
 
 .progress_group{overflow:hidden; margin-top:-20px;}
-.progress_group:nth-child(1){margin-top:0;}
-.progress_group:nth-child(2){margin-top:20px;}
+.progress_group:nth-child(1), .progress_group:nth-child(2){margin-top:0;}
 .progress_group .bg_area{position:relative; float:left; width:160px; height:160px; color:#fff; text-align:center; line-height:160px; font-size:18px; font-weight:600; background: no-repeat 0 0; z-index:9;}
 .progress_group:nth-child(1) .bg_area{background: url(../images/sub/bg_yearList_row1.png);}
 .progress_group:nth-child(1) .bg_area::before{content:""; display:block; position:absolute; left:50%; bottom:-170px; transform: translateX(-50%); width:59px; height:380px; background: url(../images/sub/bg_yearList_row_arrow.png) no-repeat 0 0; z-index:1;}
@@ -277,8 +277,22 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .progress_group:nth-child(3) .bg_area{background: url(../images/sub/bg_yearList_row3.png);}
 .progress_group:nth-child(4) .bg_area{background: url(../images/sub/bg_yearList_row4.png);}
 .progress_group .bg_area::after{content:""; display:block; width:55px; height:7px; position:absolute; right:-60px; top:50%; transform:translateY(-50%); background: url(../images/sub/img_sub4_1_5_8.png) no-repeat 0 0;}
-.progress_group .desc_box{float:left; width:984px; min-height:115px; margin-left:56px; padding:30px 40px; border: 1px solid #929292; box-sizing:border-box;}
+.progress_group .desc_box{float:left; width:984px; min-height:115px; margin-left:56px; margin-top:20px; padding:30px 40px; border: 1px solid #929292; box-sizing:border-box;}
+.progress_group .desc_box:nth-child(1){margin-top:0;}
 .progress_group .desc_box .txt_box{margin-top:25px;}
 .progress_group .desc_box .txt_box:nth-child(1){margin-top:0;}
 .progress_group .desc_box .txt_box span{display:inline-block; font-size:16px; font-weight:600; color:#005cc0;}
 .progress_group .desc_box .txt_box .bullet_list{margin-top:10px;}
+
+.content_area .sec{margin-top:40px;}
+.content_area .sec:nth-child(1){margin-top:0;}
+.content_area .sec .img_box{width:708px; margin:0 auto;}
+.content_area .sec .step_box{overflow:hidden;}
+.content_area .sec .step_box li{float:left; width:386px; margin-left:20px;}
+.content_area .sec .step_box li:nth-child(1){margin-left:0;}
+.content_area .sec .step_box li *{box-sizing:border-box; text-align:center;}
+.content_area .sec .step_box li .tit{height:96px; line-height:96px; padding:0 80px; margin-bottom:5px; color:#fff; font-weight:600;}
+.content_area .sec .step_box li:nth-child(1) .tit{background:#7c859b;}
+.content_area .sec .step_box li:nth-child(2) .tit{background:#4d5974;}
+.content_area .sec .step_box li:nth-child(3) .tit{background:#192c55;}
+.content_area .sec .step_box li .con{height:117px; padding:30px 70px; border:1px solid #ddd;}

@@ -119,22 +119,20 @@
                             <div class="content_area">
                                 <div class="sec">
                                     <div class="img_box"><img src="resource/images/sub/img_sub4_1_5_3.gif" alt=""></div>
-                                    <div class="step_box">
-                                        <ul class="step_group">
-                                            <li>
-                                                <div class="tit">해양수산부문 온실가스<br/>배출량 산정 및 관리체계 구축</div>
-                                                <div class="con">온실가스 통계 산정 및<br/>통합관리체계 구축</div>
-                                            </li>
-                                            <li>
-                                                <div class="tit">해양수산부문 온실가스<br/>감축 기반구축</div>
-                                                <div class="con">신규 탄소흡수원 개발 및<br/>국제인증, 배출권 거래기반 구축</div>
-                                            </li>
-                                            <li>
-                                                <div class="tit">국제협력 및 정부<br/>정책지원 강화</div>
-                                                <div class="con">기후변화 국제규범 대응,<br/>기후변화대응 계획 수립 및<br/>모니터링 체계 구축</div>
-                                            </li>
-                                        </ul>
-                                    </div>
+                                    <ul class="step_box">
+                                        <li>
+                                            <div class="tit">해양수산부문 온실가스<br/>배출량 산정 및 관리체계 구축</div>
+                                            <div class="con">온실가스 통계 산정 및<br/>통합관리체계 구축</div>
+                                        </li>
+                                        <li>
+                                            <div class="tit">해양수산부문 온실가스<br/>감축 기반구축</div>
+                                            <div class="con">신규 탄소흡수원 개발 및<br/>국제인증, 배출권 거래기반 구축</div>
+                                        </li>
+                                        <li>
+                                            <div class="tit">국제협력 및 정부<br/>정책지원 강화</div>
+                                            <div class="con">기후변화 국제규범 대응,<br/>기후변화대응 계획 수립 및<br/>모니터링 체계 구축</div>
+                                        </li>
+                                    </ul>
                                 </div>
 
                                 <div class="sec">
@@ -154,7 +152,7 @@
                                             <tr>
                                                 <td>해양수산부문 온실가스 배출량<br/>산정 및 관리체계 구축</td>
                                                 <td>
-                                                    <ul class="bullet_list">
+                                                    <ul class="bullet_list left">
                                                         <li>국가 온실가스 배출량산정 및 보고</li>
                                                         <li>온실가스 통계 품질 관리</li>
                                                         <li>해양수산 온실가스 배출통계 통합관리체계 기반구축</li>
@@ -164,7 +162,7 @@
                                             <tr>
                                                 <td>해양수산부문 온실가스 감축<br/>기반구축</td>
                                                 <td>
-                                                    <ul class="bullet_list">
+                                                    <ul class="bullet_list left">
                                                         <li>신규 탄소흡수원 개발 및 국제인증</li>
                                                         <li>온실가스 배출권 거래 기반 구축</li>
                                                         <li>해양수산부문 온실가스 감축 로드맵 수립 및 이행상황 점검</li>
@@ -174,7 +172,7 @@
                                             <tr>
                                                 <td>국제협력 및 정부 정책지원<br/>강화</td>
                                                 <td>
-                                                    <ul class="bullet_list">
+                                                    <ul class="bullet_list left">
                                                         <li>UNFCCC, IPCC 등 기후변화 국제규범 대응</li>
                                                         <li>해양수산부문 기후변화대응 종합계획 수립지원 및 이행평가</li>
                                                         <li>해양기후변화 모니터링 체계 구축</li>
