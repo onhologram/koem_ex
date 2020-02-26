@@ -213,7 +213,7 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="sort_group">
+                                            <div class="sort_group other">
                                                 <div class="item long">국가 온실가스 배출량산정 및 보고</div>
                                                 <div class="half_area">
                                                     <div class="item">통계 및 배출계수<br/>품질 진단</div>
@@ -241,7 +241,7 @@
                                                     </ul>
                                                 </div>
                                             </div>
-                                            <div class="sort_group other">
+                                            <div class="sort_group">
                                                 <div class="item long">국가 온실가스 배출량산정 및 보고</div>
                                                 <div class="half_area">
                                                     <div class="item">통계 및 배출계수<br/>품질 진단</div>
