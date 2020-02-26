@@ -200,16 +200,33 @@
                                     </div>
                                     <div class="sort_body">
                                         <div class="left_area">
-                                            <div class="item">
-                                                <div class="txt_box">
-                                                    <span>전략1</span>
-                                                    <span>온실가스<br/>통계관리</span>
-                                                </div>
+                                            <div class="item bg">
+                                                <span>전략1</span>
+                                                온실가스<br/>통계관리
                                             </div>
                                         </div>
                                         <div class="right_area">
                                             <div class="item_group">
-                                                <div class="item"></div>
+                                                <div class="item bg">통계생산</div>
+                                                <div class="item long">국가 온실가스 배출량산정 및 보고</div>
+                                            </div>
+                                            <div class="item_group">
+                                                <div class="item bg">품질관리</div>
+                                                <div class="item_box">
+                                                    <div class="item">통계 및 배출계수<br/>품질 진단</div>
+                                                    <div class="item mid">활동자료 관리체계 개발 및 현장조사</div>
+                                                </div>
+                                            </div>
+                                            <div class="item_group">
+                                                <div class="item bg">통합관리</div>
+                                                <div class="item_box">
+                                                    <div class="item">통합관리<br/>기반 구축</div>
+                                                    <div class="item_box sub">
+                                                        <div class="item float">DB구축</div>
+                                                        <div class="item float">통합관리시스템 개발</div>
+                                                        <div class="item specific">통계자료 MEIS연계</div>
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
