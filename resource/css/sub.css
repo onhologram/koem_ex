@@ -299,25 +299,29 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 
 .sort_area{width:1190px;}
 .sort_head ul{font-size:0;}
-.sort_head ul li{display:inline-block; width:19.5%; height:70px; margin-left:0.625%; line-height:73px; color:#fff; text-align:center; font-weight:600; font-size:17px;}
+.sort_head ul li{display:inline-block; width:19.66%; height:70px; margin-left:0.42%; line-height:73px; color:#fff; text-align:center; font-weight:600; font-size:17px;}
 .sort_head ul li:nth-child(1){margin-left:0; background-color:#7c859b;}
 .sort_head ul li:nth-child(2){background-color:#4d5974;}
 .sort_head ul li:nth-child(3){background-color:#192c55;}
 .sort_head ul li:nth-child(4){background-color:#005cb9;}
 .sort_head ul li:nth-child(5){background-color:#c4991e;}
-.sort_body{margin-top:10px; font-size:0;}
-.sort_body *{box-sizing:border-box;}
+/* .sort_body{margin-top:10px; font-size:0;}
+.sort_body *{box-sizing:border-box; text-align:center;}
 .sort_body .sort_sec{width:100%; margin-top:16px; font-size:0;}
 .sort_body .sort_sec:nth-child(1){margin-top:0;}
 .sort_body .sort_group{display:inline-block; font-size:0;}
-.sort_body .sort_group.color{width:40%;}
-.sort_body .sort_group.color .item{background-color:#f4f4f4; width:49.25%;}
-.sort_body .sort_group.color .item.first{height:220px;}
+.sort_body .sort_group.color{width:39.66%;}
+.sort_body .sort_group.color .item{ width:49.25%;}
+.sort_body .sort_group.color .item.first{height:220px; border:1px solid #ddd}
 .sort_body .sort_group.color .item.second{margin-left:1.25%;}
-.sort_body .sort_group.other{width:60%;}
-.sort_body .sort_group.other .item{margin-left:0.70%;}
-.sort_body .item{display:inline-block; border:1px solid #ddd; font-size:16px;}
+.sort_body .sort_group.color .sort_list li{margin-top:5px; border:1px solid #ddd}
+.sort_body .sort_group.color .sort_list li:nth-child(1){margin-top:0; height:45px;}
+.sort_body .sort_group.color .sort_list li:nth-child(2){height:70px;}
+.sort_body .sort_group.color .sort_list li:nth-child(3){height:97px;}
+.sort_body .sort_group.other{width:60.34%;}
+.sort_body .sort_group.other .item{margin-left:0.70%; width:32.63%;}
+.sort_body .sort_group.other .item.long{width:99.44%;}
+.sort_body .item{display:inline-block;; font-size:16px;} */
 
-/* .sort_body .item{display:inline-block; width:19.5%; margin-left:0.625%; border:1px solid #ddd;} */
 
 
