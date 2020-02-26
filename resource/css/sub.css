@@ -310,7 +310,7 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .sort_body .sort_sec:nth-child(1){margin-top:0;}
 .sort_body .sort_group{display:inline-block;}
 .sort_body .sort_group.color{width:40%;}
-.sort_body .sort_group.right{width:60%;}
+.sort_body .sort_group.other{width:60%;}
 .sort_body .sort_group.color .item{background-color:#f4f4f4;}
 .sort_body .sort_group.color .item.first{height:220px;}
 .sort_body .item{display:inline-block; border:1px solid #ddd;}
