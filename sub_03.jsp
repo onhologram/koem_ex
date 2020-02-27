@@ -188,7 +188,37 @@
                                 <h4>연차별 추진 계획</h4>
                             </div>
                             <div class="content_area">
-                                <div class="sort_area">
+                                <table class="sort_table">
+                                    <caption>연차별 추진 계획 설명 테이블</caption>
+                                    <colgroup>
+                                        <col style="width:20%;">
+                                        <col style="width:20%;">
+                                        <col style="width:20%;">
+                                        <col style="width:20%;">
+                                        <col style="width:20%;">
+                                    </colgroup>
+                                    <thead>
+                                        <th scope="col">대분류</th>
+                                        <th scope="col">중분류</th>
+                                        <th scope="col">도입기(2017)</th>
+                                        <th scope="col">확산기(2018~19)</th>
+                                        <th scope="col">정착기(2020~21)</th>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td rowspan="5" scope="row"><span>전략1</span>온실가스<br/>통계관리</td>
+                                            <td>통계생산</td>
+                                            <td colspan="3">국가 온실가스 배출량산정 및 보고</td>
+                                        </tr>
+                                        <tr>
+                                            <td>품질관리</td>
+                                            <td>통계 및 배출계수<br/>품질 진단</td>
+                                            <td colspan="2">활동자료 관리체계 개발 및 현장조사</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                                <!-- <div class="sort_area">
                                     <div class="sort_head">
                                         <ul>
                                             <li>대분류</li>
@@ -230,7 +260,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- <div class="sort_body">
+                                    <div class="sort_body">
                                         <div class="sort_sec">
                                             <div class="sort_group color">
                                                 <div class="item first">
@@ -259,8 +289,8 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div> -->
-                                </div>
+                                    </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

@@ -297,14 +297,14 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .content_area .sec .step_box li:nth-child(3) .tit{background:#192c55;}
 .content_area .sec .step_box li .con{height:117px; padding:30px 70px; border:1px solid #ddd;}
 
-.sort_area{width:1190px;}
+/* .sort_area{width:1190px;}
 .sort_head ul{font-size:0;}
 .sort_head ul li{display:inline-block; width:19.66%; height:70px; margin-left:0.42%; line-height:73px; color:#fff; text-align:center; font-weight:600; font-size:17px;}
 .sort_head ul li:nth-child(1){margin-left:0; background-color:#7c859b;}
 .sort_head ul li:nth-child(2){background-color:#4d5974;}
 .sort_head ul li:nth-child(3){background-color:#192c55;}
 .sort_head ul li:nth-child(4){background-color:#005cb9;}
-.sort_head ul li:nth-child(5){background-color:#c4991e;}
+.sort_head ul li:nth-child(5){background-color:#c4991e;} */
 
 
 /* .sort_body{margin-top:10px; font-size:0;}
