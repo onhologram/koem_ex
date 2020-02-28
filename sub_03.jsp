@@ -206,14 +206,23 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td rowspan="5" scope="row"><span>전략1</span>온실가스<br/>통계관리</td>
+                                            <td rowspan="4" scope="row"><span>전략1</span>온실가스<br/>통계관리</td>
                                             <td>통계생산</td>
                                             <td colspan="3">국가 온실가스 배출량산정 및 보고</td>
                                         </tr>
                                         <tr>
-                                            <td>품질관리</td>
-                                            <td>통계 및 배출계수<br/>품질 진단</td>
-                                            <td colspan="2">활동자료 관리체계 개발 및 현장조사</td>
+                                            <td scope="row" class="mid">품질관리</td>
+                                            <td class="mid">통계 및 배출계수<br/>품질 진단</td>
+                                            <td colspan="2" class="mid">활동자료 관리체계 개발 및 현장조사</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" scope="row" class="max">통합관리</td>
+                                            <td rowspan="2" class="max">통합관리<br/>기반 구축</td>
+                                            <td>DB구축</td>
+                                            <td>통합관리시스템 개발</td>
+                                        </tr>
+                                        <tr>
+                                            <td>통계자료 MEIS연계</td>
                                         </tr>
                                     </tbody>
                                 </table>
