@@ -272,7 +272,7 @@
                                             <td colspan="5">UNFCCC 등 해양수산부문 기후변화대응 의제 대응</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="b3">계획이행<br/>평가</td>
+                                            <td rowspan="2" class="bg3">계획이행<br/>평가</td>
                                             <td rowspan="2">기후변화대응계획<br/>분석</td>
                                             <td colspan="4">대응계획 이행</td>
                                         </tr>
@@ -281,7 +281,7 @@
                                             <td colspan="2">이행개선안 도출</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="b3">기후변화<br/>모니터링</td>
+                                            <td rowspan="2" class="bg3">기후변화<br/>모니터링</td>
                                             <td>국내&middot;외 사례분석</td>
                                             <td colspan="4">이행개선안 도출</td>
                                         </tr>
@@ -290,104 +290,7 @@
                                             <td colspan="4">영해기점 대기측정망 구축&middot;운영</td>
                                         </tr>
                                     </tbody>
-
-
-                                    <!-- <tbody>
-                                        <tr>
-                                            <td rowspan="4" scope="row"><span>전략1</span>온실가스<br/>통계관리</td>
-                                            <td>통계생산</td>
-                                            <td colspan="3">국가 온실가스 배출량산정 및 보고</td>
-                                        </tr>
-                                        <tr>
-                                            <td scope="row" class="mid">품질관리</td>
-                                            <td class="mid">통계 및 배출계수<br/>품질 진단</td>
-                                            <td colspan="2" class="mid">활동자료 관리체계 개발 및 현장조사</td>
-                                        </tr>
-                                        <tr>
-                                            <td rowspan="2" scope="row" class="max">통합관리</td>
-                                            <td rowspan="2" class="max">통합관리<br/>기반 구축</td>
-                                            <td>DB구축</td>
-                                            <td>통합관리시스템 개발</td>
-                                        </tr>
-                                        <tr>
-                                            <td>통계자료 MEIS연계</td>
-                                        </tr>
-                                    </tbody> -->
                                 </table>
-
-                                <!-- <div class="sort_area">
-                                    <div class="sort_head">
-                                        <ul>
-                                            <li>대분류</li>
-                                            <li>중분류</li>
-                                            <li>도입기(2017)</li>
-                                            <li>확산기(2018~19)</li>
-                                            <li>정착기(2020~21)</li>
-                                        </ul>
-                                    </div>
-                                    <div class="sort_body">
-                                        <div class="left_area">
-                                            <div class="item bg">
-                                                <span>전략1</span>
-                                                온실가스<br/>통계관리
-                                            </div>
-                                        </div>
-                                        <div class="right_area">
-                                            <div class="item_group">
-                                                <div class="item bg">통계생산</div>
-                                                <div class="item long">국가 온실가스 배출량산정 및 보고</div>
-                                            </div>
-                                            <div class="item_group">
-                                                <div class="item bg">품질관리</div>
-                                                <div class="item_box">
-                                                    <div class="item">통계 및 배출계수<br/>품질 진단</div>
-                                                    <div class="item mid">활동자료 관리체계 개발 및 현장조사</div>
-                                                </div>
-                                            </div>
-                                            <div class="item_group">
-                                                <div class="item bg">통합관리</div>
-                                                <div class="item_box">
-                                                    <div class="item">통합관리<br/>기반 구축</div>
-                                                    <div class="item_box sub">
-                                                        <div class="item float">DB구축</div>
-                                                        <div class="item float">통합관리시스템 개발</div>
-                                                        <div class="item specific">통계자료 MEIS연계</div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="sort_body">
-                                        <div class="sort_sec">
-                                            <div class="sort_group color">
-                                                <div class="item first">
-                                                    <span>전략1</span>
-                                                    <span>온실가스<br/>통계관리</span>
-                                                </div>
-                                                <div class="item second">
-                                                    <ul class="sort_list">
-                                                        <li>통계생산</li>
-                                                        <li>품질관리</li>
-                                                        <li>통합관리</li>
-                                                    </ul>
-                                                </div>
-                                            </div>
-                                            <div class="sort_group other">
-                                                <div class="item long">국가 온실가스 배출량산정 및 보고</div>
-                                                <div class="half_area">
-                                                    <div class="item">통계 및 배출계수<br/>품질 진단</div>
-                                                    <div class="item mid">활동자료 관리체계 개발 및 현장조사</div>
-                                                </div>
-                                                <div class="half_area">
-                                                    <div class="item">통합관리<br/>기반 구축</div>
-                                                    <div class="item">DB구축</div>
-                                                    <div class="item">통합관리시스템 개발</div>
-                                                    <div class="item specific">통계자료 MEIS연계</div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>

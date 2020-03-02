@@ -317,7 +317,7 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .sort_table td.max{height:90px;}
 .sort_table td.bg1{background-color:#f4f4f4; color:#192c55; font-weight:600;}
 .sort_table td.bg2{background-color:#e2ebf4; color:#0e3b68; font-weight:600;}
-.sort_table td.bg3{background-color:#f6f3eb; color:#52410f font-weight:600;}
+.sort_table td.bg3{background-color:#f6f3eb; color:#52410f; font-weight:600;}
 .sort_table td.bg1 span{background-color:#192c55;}
 .sort_table td.bg2 span{background-color:#005cb9;}
 .sort_table td.bg3 span{background-color:#c4991e;}
