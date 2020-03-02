@@ -337,4 +337,8 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 
 .content_area .txt_box{padding-top:40px;}
 .content_area .txt_box p:last-child{padding-left:15px;}
-.content_area .txt_box p a{display:inline-block; color:#005cb9;}
+.content_area .txt_box p a{position:relative; display:inline-block; color:#005cb9;}
+.content_area .txt_box p a::before{content:""; display:block; position:absolute; right:-20px; top:50%; transform:translateY(-50%); width:12px; height:10px; background:url(../images/sub/icon_directLink.png) no-repeat 0 0;}
+
+
+
