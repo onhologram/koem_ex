@@ -304,6 +304,32 @@
                                     <li>재해에 대한 연안보호 정책(갯벌보호, 습지은행, 후퇴정책 등) 및 해양에너지 개발 따른 시사점 도출</li>
                                     <li>해양기후변화 워크숍 개최, 개도국 기후변화 적응협력프로그램마련을 통한 공단의 기후변화 대응의지 대외홍보 및 공단의 조직인지도 확대</li>
                                 </ul>
+                                <ul class="img_list">
+                                    <li>
+                                        <span>해수온상승</span>
+                                        <p>시뮬레이터</p>
+                                        <a href="#">바로가기</a>
+                                    </li>
+                                    <li>
+                                        <span>해수면상승</span>
+                                        <p>시뮬레이터</p>
+                                        <a href="#">바로가기</a>
+                                    </li>
+                                    <li>
+                                        <span>해양</span>
+                                        <p>탄소배출량 계산기</p>
+                                        <a href="#">바로가기</a>
+                                    </li>
+                                    <li>
+                                        <span>해양과</span>
+                                        <p>기후변화(e-book)</p>
+                                        <a href="#">바로가기</a>
+                                    </li>
+                                </ul>
+                                <div class="txt_box">
+                                    <p>※ Flash Player의 버전을 최신 버전으로 사용하시길 권장합니다.</p>
+                                    <p>다운로드 사이트 : <a href="#">http://get.adobe.com/kr/flashplayer/</a></p>
+                                </div>
                             </div>
                         </div>
                     </div>
