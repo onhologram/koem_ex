@@ -293,6 +293,19 @@
                                 </table>
                             </div>
                         </div>
+                        <div class="section">
+                            <div class="head_area">
+                                <h4>주요성과</h4>
+                            </div>
+                            <div class="content_area">
+                                <ul class="bullet_list">
+                                    <li>연안도시의 재해위험 증가에 따른 도시계획, SOC, 건물, 부문별 기존 법제도 개선방향 도출</li>
+                                    <li>자발적 적응 필요성 증대에 부응한 적응인증프로그램 도입방안 및 추진체계, 일정, 방법 등을 유사인증제도 및 국내제도 분석을 토대로 설계</li>
+                                    <li>재해에 대한 연안보호 정책(갯벌보호, 습지은행, 후퇴정책 등) 및 해양에너지 개발 따른 시사점 도출</li>
+                                    <li>해양기후변화 워크숍 개최, 개도국 기후변화 적응협력프로그램마련을 통한 공단의 기후변화 대응의지 대외홍보 및 공단의 조직인지도 확대</li>
+                                </ul>
+                            </div>
+                        </div>
                     </div>
                     <%@ include file="include/sub_common/sub_footer.jsp" %>
                 </div>
