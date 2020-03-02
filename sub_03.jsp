@@ -194,17 +194,64 @@
                                         <col style="width:20%;">
                                         <col style="width:20%;">
                                         <col style="width:20%;">
-                                        <col style="width:20%;">
-                                        <col style="width:20%;">
+                                        <col style="width:10%;">
+                                        <col style="width:10%;">
+                                        <col style="width:10%;">
+                                        <col style="width:10%;">
                                     </colgroup>
                                     <thead>
                                         <th scope="col">대분류</th>
                                         <th scope="col">중분류</th>
                                         <th scope="col">도입기(2017)</th>
-                                        <th scope="col">확산기(2018~19)</th>
-                                        <th scope="col">정착기(2020~21)</th>
+                                        <th scope="col" colspan="2">확산기(2018~19)</th>
+                                        <th scope="col" colspan="2">정착기(2020~21)</th>
                                     </thead>
                                     <tbody>
+                                        <tr>
+                                            <td rowspan="4" scope="row" class="bg1"><span>전략1</span>온실가스<br/>통계관리</td>
+                                            <td class="bg1">통계생산</td>
+                                            <td colspan="5">국가 온실가스 배출량산정 및 보고</td>
+                                        </tr>
+                                        <tr>
+                                            <td scope="row" class="mid bg1">품질관리</td>
+                                            <td class="mid">통계 및 배출계수<br/>품질 진단</td>
+                                            <td colspan="4" class="mid">활동자료 관리체계 개발 및 현장조사</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" scope="row" class="max bg1">통합관리</td>
+                                            <td rowspan="2" class="max">통합관리<br/>기반 구축</td>
+                                            <td colspan="2">DB구축</td>
+                                            <td colspan="2">통합관리시스템 개발</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:0;"></td>
+                                            <td colspan="3">통계자료 MEIS연계</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="4" scope="row" class="bg2"><span>전략2</span>온실가스<br/>감축기반</td>
+                                            <td>블루카본<br/>연구개발</td>
+                                            <td>공간정보구축(강화도)</td>
+                                            <td colspan="2">공간정보구축(서&middot;남해권)</td>
+                                        </tr>
+                                        <tr>
+                                            <td scope="row" class="mid">품질관리</td>
+                                            <td class="mid">통계 및 배출계수<br/>품질 진단</td>
+                                            <td colspan="4" class="mid">활동자료 관리체계 개발 및 현장조사</td>
+                                        </tr>
+                                        <tr>
+                                            <td rowspan="2" scope="row" class="max">통합관리</td>
+                                            <td rowspan="2" class="max">통합관리<br/>기반 구축</td>
+                                            <td colspan="2">DB구축</td>
+                                            <td colspan="2">통합관리시스템 개발</td>
+                                        </tr>
+                                        <tr>
+                                            <td style="border:0;"></td>
+                                            <td colspan="3">통계자료 MEIS연계</td>
+                                        </tr>
+                                    </tbody>
+
+
+                                    <!-- <tbody>
                                         <tr>
                                             <td rowspan="4" scope="row"><span>전략1</span>온실가스<br/>통계관리</td>
                                             <td>통계생산</td>
@@ -224,7 +271,7 @@
                                         <tr>
                                             <td>통계자료 MEIS연계</td>
                                         </tr>
-                                    </tbody>
+                                    </tbody> -->
                                 </table>
 
                                 <!-- <div class="sort_area">
