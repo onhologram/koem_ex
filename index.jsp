@@ -586,6 +586,393 @@
                 </div>
             </div>
         </main>
+        <!-- popup -->
+        <div class="pop_bg">
+            <div id="popWrap" class="pop_wrap">
+                <div class="pop_box">
+                    <ul class="pop_list">
+                        <li>
+                            <a href="#">정보공개</a>
+                            <div class="list_box">
+                                <p>정보공개안내</p>
+                                <ul>
+                                    <li>
+                                        <a href="#" class="tit">정보공개 안내</a>
+                                        <ul class="bullet">
+                                            <li>
+                                                <a href="#">정보공개제도 안내</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">불복처리절차</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">비공개 대상정보 분류기준</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit">사전정보공표</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit">정보목록</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit icon">정보공개청구</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit icon">공공데이터개방</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit icon">사업실명제</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit icon">규정 제&middot;개정 사전예고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="tit icon">경영공시</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">소통참여</a>
+                            <div class="list_box">
+                                <p>온라인 민원신청</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">민원신청</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">나의민원</a>
+                                    </li>
+                                </ul>
+                                <p>국민참여</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">혁신제안</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">직원칭찬</a>
+                                    </li>
+                                </ul>
+                                <p>신고센터</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">공익신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">부정부패 신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">갑질행위 신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">청탁금지법 위반신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="icon">안전신문고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">공익신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">부정부패 신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">갑질행위 신고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#" class="icon">청탁금지법 위반신고</a>
+                                    </li>
+                                </ul>
+                                <p>홍보대사아라미</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">아라미소개</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">아라미소개</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">아라미소개</a>
+                                    </li>
+                                </ul>
+                                <p>자주하는질문(FAQ)</p>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">소식정보</a>
+                            <div class="list_box">
+                                <p>새소식</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">공지사항</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">보도자료</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">공단소식</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">카드뉴스</a>
+                                    </li>
+                                </ul>
+                                <p>입찰정보</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                </ul>
+                                <p>홍보자료</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">홍보동영상</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">인쇄광고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">라디오광고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">브로슈어</a>
+                                    </li>
+                                </ul>
+                                <p>간행물</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">아라미소개</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">아라미소개</a>
+                                    </li>
+                                </ul>
+                                <p>방제</p>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">사업안내</a>
+                            <div class="list_box">
+                                <p>해양환경보전</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">국가 해양생태계 종합조사</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">국가 해양생태계 종합조사</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                </ul>
+                                <p>해양오염 방제</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">사업안내</a>
+                            <div class="list_box">
+                                <p>해양환경보전</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">국가 해양생태계 종합조사</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">국가 해양생태계 종합조사</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                </ul>
+                                <p>해양오염 방제</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">사업안내</a>
+                            <div class="list_box">
+                                <p>해양환경보전</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">국가 해양생태계 종합조사</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">국가 해양생태계 종합조사</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">해양생태계 복원</a>
+                                    </li>
+                                </ul>
+                                <p>해양오염 방제</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">입찰공고</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                                <p>해양사업</p>
+                                <ul class="bullet">
+                                    <li>
+                                        <a href="#">항만예선사업</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <a href="#" class="pop_close">close</a>
+            </div>
+        </div>
+
         <!-- footer -->
         <%@ include file="include/footer.jsp" %>
     </div><!--//wrap -->

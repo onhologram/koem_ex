@@ -14,7 +14,7 @@ img{vertical-align:top; /*width:100%;*/}
 address{font-style:normal; font-weight:normal;}
 caption,legend{line-height:0; font-size:1px; overflow:hidden;}
 hr{display:none;}
-main,header,section,nav,footer,aside,article,figure{display:block;}
+/* main,header,section,nav,footer,aside,article,figure{display:block;} */
 a{color:#000; text-decoration:none;}
 
 /* form */

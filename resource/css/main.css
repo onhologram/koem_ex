@@ -195,7 +195,7 @@
 .banner_list li a:hover{border:2px solid #005cb9;}
 .banner_list li a img{width:100%;}
 
-
-
-
+/* main popup */
+.pop_bg{position:fixed; left:0; top:0; width:100%; height:100%; background-color:rgba(2, 2, 2, 0.6); z-index:99;}
+.pop_wrap{width:1500px; height:800px; margin:40px auto; background-color:#fff;}
 
