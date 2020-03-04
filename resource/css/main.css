@@ -203,7 +203,7 @@
 .pop_wrap .pop_box .pop_list{overflow:hidden; width:100%;}
 .pop_wrap .pop_box .pop_list>li{float:left; width:233px; height:900px; border-bottom:1px solid #ececec;}
 .pop_wrap .pop_box .pop_list>li:last-child{border-right:1px solid #ececec;}
-.pop_wrap .pop_box .pop_list>li>a{display:block; height:50px; line-height:50px; text-align:center; font-size:18px; font-weight:600; background-color:#07a7e3; color:#fff; border-left:1px solid #52c2eb;}
+.pop_wrap .pop_box .pop_list>li>a{display:block; height:50px; line-height:50px; text-align:center; font-size:20px; font-weight:600; background-color:#07a7e3; color:#fff; border-left:1px solid #52c2eb;}
 .pop_wrap .pop_box .pop_list>li .list_box{padding:25px 20px; border-left:1px solid #ececec;}
 .pop_wrap .pop_box .pop_list>li .list_box:nth-child(1){border-left:0;}
 .pop_wrap .pop_box .pop_list>li .list_box p.tit, .pop_wrap .pop_box .pop_list>li .list_box li a.tit{padding-top:15px; font-size:17px; font-weight:600;}
