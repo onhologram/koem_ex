@@ -279,10 +279,11 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .progress_group .bg_area::after{content:""; display:block; width:55px; height:7px; position:absolute; right:-60px; top:50%; transform:translateY(-50%); background: url(../images/sub/img_sub4_1_5_8.png) no-repeat 0 0;}
 .progress_group .desc_box{float:left; width:984px; min-height:115px; margin-left:56px; margin-top:20px; padding:30px 40px; border: 1px solid #929292; box-sizing:border-box;}
 .progress_group .desc_box:nth-child(1){margin-top:0;}
-.progress_group .desc_box .txt_box{margin-top:25px;}
+.progress_group .desc_box .txt_box{margin-top:25px; padding-top:0;}
 .progress_group .desc_box .txt_box:nth-child(1){margin-top:0;}
 .progress_group .desc_box .txt_box span{display:inline-block; font-size:16px; font-weight:600; color:#005cc0;}
 .progress_group .desc_box .txt_box .bullet_list{margin-top:10px;}
+
 
 .content_area .sec{margin-top:40px;}
 .content_area .sec:nth-child(1){margin-top:0;}
