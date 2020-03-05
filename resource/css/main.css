@@ -116,7 +116,7 @@
 /* sns */
 .section.sns{position:relative;}
 .section.sns .inner h3{text-align:center; font-size:48px;}
-.section.sns .sns_wrap{margin-top:50px;}
+.section.sns .sns_wrap{overflow:hidden; margin-top:50px;}
 .section.sns .sns_wrap ul{overflow:hidden; width:2400px; height:260px;}
 /* .section.sns .sns_wrap ul::after{content:""; display:block; clear:both;} */
 .section.sns .sns_wrap ul li{float:left; width:260px; height:260px; margin-left:20px;}
