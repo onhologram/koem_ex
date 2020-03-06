@@ -67,7 +67,7 @@
         </div>
 
         <!-- main contents-->
-        <main>
+        <div class="section_wrap">
             <div class="section news">
                 <div class="inner">
                     <div class="news_area">
@@ -585,7 +585,7 @@
                     </ul>
                 </div>
             </div>
-        </main>
+        </div>
         <!-- popup -->
         <div class="pop_bg">
             <div id="popWrap" class="pop_wrap">

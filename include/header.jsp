@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<header>
-    <div class="header">
+<div id="header">
+    <div class="header_inner">
         <h1>
             <a href="/index.jsp">
                 <img src="resource/images/common/img_logo.png" alt="KOEM 해양환경공단 로고">
@@ -493,4 +493,4 @@
             </div>
         </div>
     </div>
-</header>
+</div>
