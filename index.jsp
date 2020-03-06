@@ -15,6 +15,7 @@
         <!-- header -->
         <%@ include file="include/header.jsp" %>
 
+        <!-- visual -->
         <div class="visual">
             <div class="inner">
                 <div class="visual_txt">
@@ -68,6 +69,7 @@
 
         <!-- main contents-->
         <div class="section_wrap">
+            <!-- news -->
             <div class="section news">
                 <div class="inner">
                     <div class="news_area">
@@ -379,6 +381,7 @@
                     </div>
                 </div>
             </div>
+            <!-- sns -->
             <div class="section sns">
                 <div class="inner">
                     <h3>KOEM SNS</h3>
@@ -454,6 +457,7 @@
                     <a href="#" class="sns_arr next">next</a>
                 </div>
             </div>
+            <!-- notice -->
             <div class="section notice">
                 <div class="inner">
                     <div class="promo_group">
@@ -558,6 +562,7 @@
                     </div>
                 </div>
             </div>
+            <!-- banner -->
             <div class="section banner">
                 <div class="inner">
                     <ul class="banner_list">
