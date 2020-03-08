@@ -13,7 +13,7 @@
 <body class="sub">
     <div id="wrap">
         <%@ include file="include/header.jsp" %>
-        <div class="bg info">
+        <div class="container info">
             <div class="inner">
                 <h2>정보공개</h2>
             </div>

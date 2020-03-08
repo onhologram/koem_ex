@@ -13,7 +13,7 @@
 <body class="sub">
     <div id="wrap">
         <%@ include file="include/header.jsp" %>
-        <div class="bg business">
+        <div class="container business">
             <div class="inner">
                 <h2>사업안내</h2>
             </div>
