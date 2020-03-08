@@ -112,7 +112,7 @@
 .footer_top_inner .footer_list li ul li a{margin-top:10px; font-size:14px; color:#bebec0;}
 .footer_bottom{background-image:url(../images/common/bg_footGnb.gif); background-repeat:no-repeat; background-position:0 0; background-color:#141720;}
 .footer_bottom_inner{position:relative; width:1580px; margin:0 auto; padding:120px 0 100px;}
-.footer_bottom_inner h1{position:absolute; left:0; top:120px;}
+.footer_bottom_inner h2{position:absolute; left:0; top:120px;}
 .footer_bottom_inner .footer_info{width:1580px; margin:0 auto;}
 .footer_bottom_inner .footer_info *{color:#bebec0;}
 .footer_bottom_inner .footer_info ul::after{content:""; display:block; clear:both;}

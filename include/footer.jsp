@@ -72,11 +72,11 @@
     </div>
     <div class="footer_bottom">
         <div class="footer_bottom_inner">
-            <h1>
+            <h2>
                 <a href="#">
                     <img src="resource/images/common/img_footLogo.png" alt="KOEM 해양환경공단 로고">
                 </a>
-            </h1>
+            </h2>
             <div class="footer_info">
                 <ul>
                     <li><a href="#" class="str">개인정보처리방침</a></li>
