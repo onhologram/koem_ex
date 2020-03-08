@@ -46,7 +46,7 @@
                                 <h4>사업목적</h4>
                             </div>
                             <div class="content_area">
-                                <ul class="bullet_list">
+                                <ul class="bullet">
                                     <li>신 기후체제에 대응하여 국내 온실가스 배출량 감축목표 달성을 위한 해양부문의 자발적 온실가스 감축 목표 설정 및 실행력 강화</li>
                                     <li>해양수산부문(해양 수산 해운 항만)의 온실가스 정보 통합관리체계 구축</li>
                                 </ul>
@@ -62,7 +62,7 @@
                                     <div class="desc_box">
                                         <div class="txt_box">
                                             <span>연안지역 기후변화 적응체계 구축</span>
-                                            <ul class="bullet_list">
+                                            <ul class="bullet">
                                                 <li>국내 해양부문 기후변화 적응사업 추진전략 및 세부이행 과제 도출</li>
                                                 <li>기후변화적응형 연안도시 구축 가이드라인 개발</li>
                                                 <li>지자체대상 적응인증프로그램 가이드라인 개발 및 시범인증</li>
@@ -72,14 +72,14 @@
                                         </div>
                                         <div class="txt_box">
                                             <span>해양기후변화 인식증진</span>
-                                            <ul class="bullet_list">
+                                            <ul class="bullet">
                                                 <li>해수면상승 시뮬레이터, 해수온상승 시뮬레이터, 해양탄소계산기 개발</li>
                                                 <li>해양기후변화 적응역량 강화를 위한 국제워크숍 개최 등</li>
                                             </ul>
                                         </div>
                                         <div class="txt_box">
                                             <span>국제협력 네트워크 구축</span>
-                                            <ul class="bullet_list">
+                                            <ul class="bullet">
                                                 <li>PEMSEA를 통한 동아시아해역 주변 9개 연안국가를 대상으로 기후변화 적응협력프로젝트 발굴</li>
                                                 <li>인도네시아 연안취약성 지도 작성 여수프로젝트 수행</li>
                                             </ul>
@@ -151,7 +151,7 @@
                                             <tr>
                                                 <td>해양수산부문 온실가스 배출량<br/>산정 및 관리체계 구축</td>
                                                 <td>
-                                                    <ul class="bullet_list left">
+                                                    <ul class="bullet left">
                                                         <li>국가 온실가스 배출량산정 및 보고</li>
                                                         <li>온실가스 통계 품질 관리</li>
                                                         <li>해양수산 온실가스 배출통계 통합관리체계 기반구축</li>
@@ -161,7 +161,7 @@
                                             <tr>
                                                 <td>해양수산부문 온실가스 감축<br/>기반구축</td>
                                                 <td>
-                                                    <ul class="bullet_list left">
+                                                    <ul class="bullet left">
                                                         <li>신규 탄소흡수원 개발 및 국제인증</li>
                                                         <li>온실가스 배출권 거래 기반 구축</li>
                                                         <li>해양수산부문 온실가스 감축 로드맵 수립 및 이행상황 점검</li>
@@ -171,7 +171,7 @@
                                             <tr>
                                                 <td>국제협력 및 정부 정책지원<br/>강화</td>
                                                 <td>
-                                                    <ul class="bullet_list left">
+                                                    <ul class="bullet left">
                                                         <li>UNFCCC, IPCC 등 기후변화 국제규범 대응</li>
                                                         <li>해양수산부문 기후변화대응 종합계획 수립지원 및 이행평가</li>
                                                         <li>해양기후변화 모니터링 체계 구축</li>
@@ -298,7 +298,7 @@
                                 <h4>주요성과</h4>
                             </div>
                             <div class="content_area">
-                                <ul class="bullet_list">
+                                <ul class="bullet">
                                     <li>연안도시의 재해위험 증가에 따른 도시계획, SOC, 건물, 부문별 기존 법제도 개선방향 도출</li>
                                     <li>자발적 적응 필요성 증대에 부응한 적응인증프로그램 도입방안 및 추진체계, 일정, 방법 등을 유사인증제도 및 국내제도 분석을 토대로 설계</li>
                                     <li>재해에 대한 연안보호 정책(갯벌보호, 습지은행, 후퇴정책 등) 및 해양에너지 개발 따른 시사점 도출</li>
