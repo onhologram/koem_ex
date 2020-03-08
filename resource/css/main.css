@@ -39,7 +39,7 @@
 .quick_menu .arrow_box a{display:block; height:100%;}
 .quick_menu .sns_box{position:absolute; top:360px; right:0; padding:10px 20px; background-color:transparent;}
 .quick_menu .sns_box li{padding:15px 0; border-top:1px solid #428eb3;}
-.quick_menu .sns_box li:nth-child(1){border:none;}
+.quick_menu .sns_box li:first-child{border:none;}
 .quick_menu .sns_box li a{display:block; background-repeat:no-repeat; background-image:url(../images/main/img_mainAside_all.png); margin:0 auto;}
 .quick_menu .sns_box li:nth-child(1) a{width:13px; height:16px; background-position:0 -142px;}
 .quick_menu .sns_box li:nth-child(2) a{width:11px; height:21px; background-position:-22px -140px;}
@@ -72,7 +72,6 @@
 .tab_area .tab li a:hover{color:#005cb9;}
 .tab_area .tab li a:hover::before{width:100%;}
 .tab_area .tab li.on a{color:#005cb9;}
-.tab_area .tab li.on a:hover{color:#005cb9;}
 .tab_area .tab li.on a::before{width:100%;}
 
 .tab_area .cont_wrap{position:relative; width:1580px; margin:50px 0 auto;}
