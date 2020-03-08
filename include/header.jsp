@@ -6,28 +6,26 @@
                 <img src="resource/images/common/img_logo.png" alt="KOEM 해양환경공단 로고">
             </a>
         </h1>
-        <div class="gnb" id="gnb">
-            <ul>
-                <li>
-                    <a href="/sub_01.jsp" class="gnb_tit">정보공개</a>
-                </li>
-                <li>
-                    <a href="#" class="gnb_tit">소통참여</a>
-                </li>
-                <li>
-                    <a href="/sub_02.jsp" class="gnb_tit">소식정보</a>
-                </li>
-                <li>
-                    <a href="/sub_03.jsp" class="gnb_tit">사업안내</a>
-                </li>
-                <li>
-                    <a href="#" class="gnb_tit">공단소개</a>
-                </li>
-                <li>
-                    <a href="#" class="gnb_tit">사회적가치</a>
-                </li>
-            </ul>
-        </div>
+        <ul class="gnb" id="gnb">
+            <li>
+                <a href="/sub_01.jsp" class="gnb_tit">정보공개</a>
+            </li>
+            <li>
+                <a href="#" class="gnb_tit">소통참여</a>
+            </li>
+            <li>
+                <a href="/sub_02.jsp" class="gnb_tit">소식정보</a>
+            </li>
+            <li>
+                <a href="/sub_03.jsp" class="gnb_tit">사업안내</a>
+            </li>
+            <li>
+                <a href="#" class="gnb_tit">공단소개</a>
+            </li>
+            <li>
+                <a href="#" class="gnb_tit">사회적가치</a>
+            </li>
+        </ul>
         <div class="util">
             <div class="util_info">
                 <ul>
