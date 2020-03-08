@@ -68,7 +68,7 @@
 .gnb_sub_wrap:nth-child(5) .tit_area::after{background-position:-960px 0;}
 .gnb_sub_wrap:nth-child(6) .tit_area::after{background-position:-1200px 0;}
 
-.gnb_sub_wrap .list_area{position:relative; background-color:#fff; border-right:1px solid #ddd; box-sizing: border-box;}
+.gnb_sub_wrap .list_area{background-color:#fff; border-right:1px solid #ddd; box-sizing: border-box;}
 .gnb_sub_wrap .list_area .gnb_sub_list::after{content:""; display:block; clear:both;}
 .gnb_sub_wrap .list_area .gnb_sub_list>li{float:left; width:50%; height:377px; padding:30px 20px; box-sizing:border-box;}
 .gnb_sub_wrap .list_area .gnb_sub_list>li div.last{margin-top:30px;}

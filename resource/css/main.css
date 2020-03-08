@@ -114,20 +114,20 @@
 .roll_area .right .num_wrap .sum::before{content:"/"; display:block; position:absolute; left:3px; top:0;}
 
 /* sns */
-.section.sns{position:relative;}
-.section.sns .inner h3{text-align:center; font-size:48px;}
-.section.sns .sns_wrap{overflow:hidden; margin-top:50px;}
-.section.sns .sns_wrap ul{overflow:hidden; width:2400px; height:260px;}
-/* .section.sns .sns_wrap ul::after{content:""; display:block; clear:both;} */
-.section.sns .sns_wrap ul li{float:left; width:260px; height:260px; margin-left:20px;}
-.section.sns .sns_wrap ul li:nth-child(1){margin-left:0;}
-.section.sns .sns_wrap ul li a{display:block; position:relative; width:100%; height:100%; background:#e2e2e2; box-sizing:border-box;}
-.section.sns .sns_wrap ul li a.bg{padding:30px 25px;}
-.section.sns .sns_wrap ul li a h4{font-size:25px; display:block; display:-webkit-box; text-overflow:ellipsis; word-wrap: break-word; overflow: hidden; -webkit-line-clamp:2; -webkit-box-orient:vertical; min-height:66px;}
-.section.sns .sns_wrap ul li a p{margin-top:40px; font-size:14px;}
-.section.sns .sns_wrap ul li a span{display:inline-block;}
-.section.sns .sns_wrap ul li a .date{margin-top:20px; font-size:14px;}
-.section.sns .sns_wrap ul li a img{width:100%;}
+.sns{position:relative;}
+.sns .inner h3{text-align:center; font-size:48px;}
+.sns .sns_wrap{overflow:hidden; margin-top:50px;}
+.sns .sns_wrap ul{overflow:hidden; width:2400px; height:260px;}
+/* .sns .sns_wrap ul::after{content:""; display:block; clear:both;} */
+.sns .sns_wrap ul li{float:left; width:260px; height:260px; margin-left:20px;}
+.sns .sns_wrap ul li:nth-child(1){margin-left:0;}
+.sns .sns_wrap ul li a{display:block; position:relative; width:100%; height:100%; background:#e2e2e2; box-sizing:border-box;}
+.sns .sns_wrap ul li a.bg{padding:30px 25px;}
+.sns .sns_wrap ul li a h4{font-size:25px; display:block; display:-webkit-box; text-overflow:ellipsis; word-wrap: break-word; overflow: hidden; -webkit-line-clamp:2; -webkit-box-orient:vertical; min-height:66px;}
+.sns .sns_wrap ul li a p{margin-top:40px; font-size:14px;}
+.sns .sns_wrap ul li a span{display:inline-block;}
+.sns .sns_wrap ul li a .date{margin-top:20px; font-size:14px;}
+.sns .sns_wrap ul li a img{width:100%;}
 .sns_icon{position:absolute; right:20px; bottom:20px; width:34px; height:34px; background:url(../images/common/icon_common_all.png) no-repeat;}
 .sns_icon.blog{background-position: 0 -400px;}
 .sns_icon.fb{background-position: -80px -400px;}
