@@ -298,7 +298,7 @@ ul.bar_list>li::before{content:"-"; position:absolute; left:0; top:50%; transfor
 .content_area .sec .step_box li:nth-child(3) .tit{background:#192c55;}
 .content_area .sec .step_box li .con{height:117px; padding:30px 70px; border:1px solid #ddd;}
 
-.sort_table{border-collapse:separate; border-spacing:5px; table-layout:fixed;}
+.sort_table{border-collapse:separate; border-spacing:5px;}
 .sort_table *{box-sizing:border-box; font-size:16px;}
 .sort_table thead>tr>th{height:70px; color:#fff; text-align:center; font-weight:600; font-size:17px;}
 .sort_table thead>tr>th:nth-child(1){background-color:#7c859b;}
