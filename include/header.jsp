@@ -35,17 +35,15 @@
                 </ul>
             </div>
             <div class="util_group">
-                <ul>
-                    <li><a href="#" class="eng">ENG</a></li>
-                    <li>
-                        <a href="#" class="search">search</a>
-                        <div class="search_input">
-                            <input type="search" name="word" id="word" placeholder="검색어를 입력하세요" value="" >
-                            <button type="submit" class="search_btn">검색</button>
-                        </div>
-                    </li>
-                    <li><a href="#" class="sitemap_pop">sitemap</a></li>
-                </ul>
+                <span><a href="#" class="eng">ENG</a></span>
+                <span>
+                    <a href="#" class="search">search</a>
+                    <div class="search_input">
+                        <input type="search" name="word" id="word" placeholder="검색어를 입력하세요" value="" >
+                        <button type="submit" class="search_btn">검색</button>
+                    </div>
+                </span>
+                <span><a href="#" class="sitemap_pop">sitemap</a></span>
             </div>
         </div>
     </div>

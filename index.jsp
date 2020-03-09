@@ -20,14 +20,16 @@
             <div class="inner">
                 <div class="visual_txt">
                     <div class="txt_top">
-                        <span class="txt_motion">건강한 바다,</span><span class="txt_motion">풍요로운 미래,</span><span class="txt_motion">행복한 국민</span><br/>
-                        <span class="txt_motion eng">with KOEM</span>
+                        <p class="txt_motion">건강한 바다,</p>
+                        <p class="txt_motion">풍요로운 미래,</p>
+                        <p class="txt_motion">행복한 국민</p></br>
+                        <p class="txt_motion eng">with KOEM</p>
                     </div>
                     <div class="txt_bottom">
-                        <span class="txt_motion first">
+                        <p class="txt_motion first">
                             깨끗한 해양을 지키기 위해 해양환경공단은 항상 노력하고 있습니다.<br/>
                             깨끗한 환경을 지키는 것은 우리의 임무이자 의무입니다.
-                        </span>
+                        </p>
                     </div>
                 </div>
                 <div class="btn_area">
