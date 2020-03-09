@@ -224,7 +224,7 @@
                                         <img src="resource/images/sub/img_sub1_1_1_1.jpg" alt="">
                                     </div>
                                     <h5>정보공개 청구방법</h5>
-                                    <ul class="bullet">
+                                    <ul class="bullet_list">
                                         <li>
                                            <p><span>정보공개사이트</span>를 이용하여 신청 가능합니다.</p>
                                         </li>
