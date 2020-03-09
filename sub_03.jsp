@@ -208,7 +208,7 @@
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td rowspan="4" scope="row" class="bg1"><span>전략1</span>온실가스<br/>통계관리</td>
+                                            <th rowspan="4" scope="row" class="bg1"><span>전략1</span>온실가스<br/>통계관리</th>
                                             <td class="bg1">통계생산</td>
                                             <td colspan="5">국가 온실가스 배출량산정 및 보고</td>
                                         </tr>
@@ -228,7 +228,7 @@
                                             <td colspan="3">통계자료 MEIS연계</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="7" scope="row" class="bg2"><span>전략2</span>온실가스<br/>감축기반</td>
+                                            <th rowspan="7" scope="row" class="bg2"><span>전략2</span>온실가스<br/>감축기반</th>
                                             <td rowspan="3" class="bg2">블루카본<br/>연구개발</td>
                                             <td>공간정보구축(강화도)</td>
                                             <td colspan="2">공간정보구축(서&middot;남해권)</td>
@@ -260,7 +260,7 @@
                                             <td colspan="2">이행개선안 도출</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="7" scope="row" class="bg3"><span>전략8</span>온실가스<br/>정책지원</td>
+                                            <th rowspan="7" scope="row" class="bg3"><span>전략8</span>온실가스<br/>정책지원</th>
                                             <td rowspan="3" class="bg3">국제협력</td>
                                             <td>IPCC 특별보고서 지원	</td>
                                             <td colspan="4">IPCC 총회 참석 및 6차 평가보고서 작성 지원</td>
