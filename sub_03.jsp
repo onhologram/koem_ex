@@ -213,12 +213,12 @@
                                             <td colspan="5">국가 온실가스 배출량산정 및 보고</td>
                                         </tr>
                                         <tr>
-                                            <td scope="row" class="mid bg1">품질관리</td>
+                                            <td class="mid bg1">품질관리</td>
                                             <td class="mid">통계 및 배출계수<br/>품질 진단</td>
                                             <td colspan="4" class="mid">활동자료 관리체계 개발 및 현장조사</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" scope="row" class="max bg1">통합관리</td>
+                                            <td rowspan="2" class="max bg1">통합관리</td>
                                             <td rowspan="2" class="max">통합관리<br/>기반 구축</td>
                                             <td colspan="2">DB구축</td>
                                             <td colspan="2">통합관리시스템 개발</td>
@@ -235,7 +235,7 @@
                                             <td colspan="2">공간정보구축(동해&middot;제주권)</td>
                                         </tr>
                                         <tr>
-                                            <td scope="row">시범지역 탄소측정 및 분석</td>
+                                            <td>시범지역 탄소측정 및 분석</td>
                                             <td colspan="4">연도별/권역별 탄소측정 및 분석</td>
                                         </tr>
                                         <tr>
