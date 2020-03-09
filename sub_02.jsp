@@ -69,7 +69,7 @@
                                 <tr>
                                     <td>10</td>
                                     <td class="text_left">
-                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
+                                        <a href="/sub_02-vew.jsp">2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고2020년 해양보호구역 조사&middot;관찰 요원 추가모집 공고</a>
                                     </td>
                                     <td>2020.02.12</td>
                                     <td>158</td>
@@ -179,10 +179,34 @@
                             </tbody>
                         </table>
                         <div class="paging_wrap">
-                            <ul class="paging">
-                                <li class="arrow prev1"><a href="#">이전</a></li>
-                                <li class="arrow prev2"><a href="#">이전</a></li>
-                                <li class="on"><a href="#">1</a></li>
+                            <div class="paging">
+                                <span>
+                                    <a href="#" class="arrow first">처음</a>
+                                    <a href="#" class="arrow prev">이전</a>
+                                </span>
+
+                                <ol class="num_btn_group">
+                                    <li class="on"><span class="num_btn">1</span></li>
+                                    <li><a href="#" class="num_btn">2</a></li>
+                                    <li><a href="#" class="num_btn">3</a></li>
+                                    <li><a href="#" class="num_btn">4</a></li>
+                                    <li><a href="#" class="num_btn">5</a></li>
+                                    <li><a href="#" class="num_btn">6</a></li>
+                                    <li><a href="#" class="num_btn">7</a></li>
+                                    <li><a href="#" class="num_btn">8</a></li>
+                                    <li><a href="#" class="num_btn">9</a></li>
+                                    <li><a href="#" class="num_btn">10</a></li>
+                                </ol>
+
+                                <span>
+                                    <a href="#" class="arrow next">다음</a>
+                                    <a href="#" class="arrow last">마지막</a>
+                                </span>
+
+                                <!-- <li class="arrow prev1"><a href="#">이전</a></li>
+                                <li class="arrow prev2"><a href="#">이전</a></li> -->
+
+                                <!-- <li class="on"><a href="#">1</a></li>
                                 <li><a href="#">2</a></li>
                                 <li><a href="#">3</a></li>
                                 <li><a href="#">4</a></li>
@@ -191,10 +215,11 @@
                                 <li><a href="#">7</a></li>
                                 <li><a href="#">8</a></li>
                                 <li><a href="#">9</a></li>
-                                <li><a href="#">10</a></li>
-                                <li class="arrow next1"><a href="#">다음</a></li>
-                                <li class="arrow next2"><a href="#">다음</a></li>
-                            </ul>
+                                <li><a href="#">10</a></li> -->
+
+                                <!-- <li class="arrow next1"><a href="#">다음</a></li>
+                                <li class="arrow next2"><a href="#">다음</a></li> -->
+                            </div>
                         </div>
                     </div>
                     <%@ include file="include/sub_common/sub_footer.jsp" %>
