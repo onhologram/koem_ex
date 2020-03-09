@@ -37,15 +37,17 @@
 .quick_menu .arrow_box{position:absolute; right:0; width:68px; height:68px; margin-top:23px; background: url(../images/main/img_mainArrowRight.gif) no-repeat 0 0;}
 .quick_menu .arrow_box a{display:block; height:100%;}
 .quick_menu .sns_box{position:absolute; top:360px; right:0; padding:10px 20px; background-color:transparent;}
-.quick_menu .sns_box li{padding:15px 0; border-top:1px solid #428eb3;}
+.quick_menu .sns_box li{border-top:1px solid #428eb3;}
 .quick_menu .sns_box li:first-child{border:none;}
-.quick_menu .sns_box li a{display:block; background-repeat:no-repeat; background-image:url(../images/main/img_mainAside_all.png); margin:0 auto;}
-.quick_menu .sns_box li:nth-child(1) a{width:13px; height:16px; background-position:0 -142px;}
-.quick_menu .sns_box li:nth-child(2) a{width:11px; height:21px; background-position:-22px -140px;}
-.quick_menu .sns_box li:nth-child(3) a{width:16px; height:14px; background-position:-44px -143px;}
-.quick_menu .sns_box li:nth-child(4) a{width:13px; height:21px; background-position:-71px -140px;}
-.quick_menu .sns_box li:nth-child(5) a{width:18px; height:18px; background-position:-94px -140px;}
-.quick_menu .arrow_box a:hover{padding-left:10px;}
+.quick_menu .sns_box li a{display:block; position:relative; padding:10px 0; margin:0 auto;}
+
+.quick_menu .sns_box li a::before{content:""; display:block; text-align:center; background-repeat:no-repeat; background-image:url(../images/main/quick_sns_main.png); }
+.quick_menu .sns_box li:nth-child(1) a::before{width:26px; height:26px; background-position:0 -2px;}
+.quick_menu .sns_box li:nth-child(2) a::before{width:26px; height:26px; background-position:-25px 0px;}
+.quick_menu .sns_box li:nth-child(3) a::before{width:26px; height:26px; background-position:-51px -3px;}
+.quick_menu .sns_box li:nth-child(4) a::before{width:26px; height:26px; background-position:-78px 0px;}
+.quick_menu .sns_box li:nth-child(5) a::before{width:26px; height:26px; background-position:-104px 0px;}
+/* .quick_menu .arrow_box a:hover{padding-left:10px;} */
 
 .quick_menu.on{border-left:1px solid #ddd; background-color:#fff;}
 .quick_menu.on .sns_box li{border-top:1px solid #ddd;}
