@@ -51,11 +51,11 @@
 
 .quick_menu.on{border-left:1px solid #ddd; background-color:#fff;}
 .quick_menu.on .sns_box li{border-top:1px solid #ddd;}
-.quick_menu.on .sns_box li:nth-child(1) a{background-position:0 -174px;}
-.quick_menu.on .sns_box li:nth-child(2) a{background-position:-22px -172px;}
-.quick_menu.on .sns_box li:nth-child(3) a{background-position:-44px -174px}
-.quick_menu.on .sns_box li:nth-child(4) a{background-position:-71px -172px;}
-.quick_menu.on .sns_box li:nth-child(5) a{background-position:-94px -173px;}
+.quick_menu.on .sns_box li:nth-child(1) a::before{background-position:0px -56px;}
+.quick_menu.on .sns_box li:nth-child(2) a::before{background-position:-26px -56px;}
+.quick_menu.on .sns_box li:nth-child(3) a::before{background-position:-51px -58px}
+.quick_menu.on .sns_box li:nth-child(4) a::before{background-position:-79px -56px;}
+.quick_menu.on .sns_box li:nth-child(5) a::before{background-position:-104px -55px;}
 
 .section{margin-bottom:80px;}
 
