@@ -246,7 +246,7 @@
                                 </div>
                                 <div class="group">
                                     <h5>정보공개심의회 운영</h5>
-                                    <ul class="bullet type2">
+                                    <ul class="bullet_list type2">
                                         <li>
                                             <p>공단은 정보공개 청구에 대한 전문성·공정성·신뢰성 확보를 위해 정보공개 심의회를 구성하여 운영 중에 있습니다.</p>
                                             <ul class="bar_list">
