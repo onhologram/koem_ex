@@ -27,12 +27,12 @@
                         <div class="section top">
                             <div class="border_box">
                                 <div class="subtit_wrap">
-                                    <div class="subtit">
-                                        <span>정보공개제도란?</span>
-                                        <p>국민의 알권리를 보장하고 국정에 대한 국민의 참여와 국정 운영의 투명성을 위하여 재정된 「공공기관의 정보공개에 관한 법률」에
+                                    <dl class="subtit">
+                                        <dt>정보공개제도란?</dt>
+                                        <dd>국민의 알권리를 보장하고 국정에 대한 국민의 참여와 국정 운영의 투명성을 위하여 재정된 「공공기관의 정보공개에 관한 법률」에
                                             의거하여 공공기관이 보유 &middot; 관리 하는 정보를 국민의 공개하는 제도입니다.
-                                        </p>
-                                    </div>
+                                        </dd>
+                                    </dl>
                                     <div class="btn_area">
                                         <a href="#" class="btn_pop">정보공개규정 보기</a>
                                     </div>
@@ -108,18 +108,18 @@
                                 <h4>정보공개 청구권자</h4>
                             </div>
                             <div class="content_area">
-                                <ul class="public vertical">
-                                    <li>
+                                <div class="public vertical">
+                                    <div>
                                         <h5>모든국민</h5>
                                         <p>
                                             모든 국민은 청구인 본인 또는 그 대리인을 통하여 공공기관에 정보공개를 청구할 권리를 가지고 있습니다.
                                         </p>
-                                    </li>
-                                    <li>
+                                    </div>
+                                    <div>
                                         <h5>법인&middot;단체</h5>
                                         <p>법인과 단체의 경우는 대표자의 명의로 공공기관에 정보공개를 청구할 권리를 가지고 있습니다.</p>
-                                    </li>
-                                    <li>
+                                    </div>
+                                    <div>
                                         <h5>외국인</h5>
                                         <p>청구권이 인정되는 외국인의 범위는 다음과 같습니다.</p>
                                         <ul class="bar_list">
@@ -127,8 +127,8 @@
                                             <li>학술&middot;연구를 위하여 일시적으로 체류하는 자</li>
                                             <li>국내에 사무소를 두고 있는 법인 또는 단체</li>
                                         </ul>
-                                    </li>
-                                </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                         <div class="section">
