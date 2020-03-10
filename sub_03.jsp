@@ -57,59 +57,61 @@
                                 <h4>그간 추진경과</h4>
                             </div>
                             <div class="content_area">
-                                <div class="progress_group">
-                                    <div class="bg_area">2008</div>
-                                    <div class="desc_box">
-                                        <div class="txt_box">
-                                            <span>연안지역 기후변화 적응체계 구축</span>
-                                            <ul class="bullet">
-                                                <li>국내 해양부문 기후변화 적응사업 추진전략 및 세부이행 과제 도출</li>
-                                                <li>기후변화적응형 연안도시 구축 가이드라인 개발</li>
-                                                <li>지자체대상 적응인증프로그램 가이드라인 개발 및 시범인증</li>
-                                                <li>기후변화적응형 연안도시 공간계획 수립지침 마련</li>
-                                                <li>기후변화에 따른 연안별 해양환경특성 평가 등</li>
-                                            </ul>
+                                <ul class="progress_list">
+                                    <li class="progress_group">
+                                        <div class="bg_area">2008</div>
+                                        <div class="desc_box">
+                                            <div class="txt_box">
+                                                <h5>연안지역 기후변화 적응체계 구축</h5>
+                                                <ul class="bullet">
+                                                    <li>국내 해양부문 기후변화 적응사업 추진전략 및 세부이행 과제 도출</li>
+                                                    <li>기후변화적응형 연안도시 구축 가이드라인 개발</li>
+                                                    <li>지자체대상 적응인증프로그램 가이드라인 개발 및 시범인증</li>
+                                                    <li>기후변화적응형 연안도시 공간계획 수립지침 마련</li>
+                                                    <li>기후변화에 따른 연안별 해양환경특성 평가 등</li>
+                                                </ul>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h5>해양기후변화 인식증진</h5>
+                                                <ul class="bullet">
+                                                    <li>해수면상승 시뮬레이터, 해수온상승 시뮬레이터, 해양탄소계산기 개발</li>
+                                                    <li>해양기후변화 적응역량 강화를 위한 국제워크숍 개최 등</li>
+                                                </ul>
+                                            </div>
+                                            <div class="txt_box">
+                                                <h5>국제협력 네트워크 구축</h5>
+                                                <ul class="bullet">
+                                                    <li>PEMSEA를 통한 동아시아해역 주변 9개 연안국가를 대상으로 기후변화 적응협력프로젝트 발굴</li>
+                                                    <li>인도네시아 연안취약성 지도 작성 여수프로젝트 수행</li>
+                                                </ul>
+                                            </div>
                                         </div>
-                                        <div class="txt_box">
-                                            <span>해양기후변화 인식증진</span>
-                                            <ul class="bullet">
-                                                <li>해수면상승 시뮬레이터, 해수온상승 시뮬레이터, 해양탄소계산기 개발</li>
-                                                <li>해양기후변화 적응역량 강화를 위한 국제워크숍 개최 등</li>
-                                            </ul>
+                                    </li>
+                                    <li class="progress_group">
+                                        <div class="bg_area">2015</div>
+                                        <div class="desc_box">
+                                            <div class="txt_box">
+                                                <h5>제3차 기후변화대응 해양수산부문 종합계획 수립</h5>
+                                            </div>
                                         </div>
-                                        <div class="txt_box">
-                                            <span>국제협력 네트워크 구축</span>
-                                            <ul class="bullet">
-                                                <li>PEMSEA를 통한 동아시아해역 주변 9개 연안국가를 대상으로 기후변화 적응협력프로젝트 발굴</li>
-                                                <li>인도네시아 연안취약성 지도 작성 여수프로젝트 수행</li>
-                                            </ul>
+                                    </li>
+                                    <li class="progress_group">
+                                        <div class="bg_area">2017</div>
+                                        <div class="desc_box">
+                                            <div class="txt_box">
+                                                <h5>해양수산부문 국가 온실가스 정보 및 통계 부문별 산정기관 지정<br/>'국내 블루카본 정보시스템 및 평가관리기술 개발 주간기관 선정(5년, 100억)</h5>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="progress_group">
-                                    <div class="bg_area">2015</div>
-                                    <div class="desc_box">
-                                        <div class="txt_box">
-                                            <span>제3차 기후변화대응 해양수산부문 종합계획 수립</span>
+                                    </li>
+                                    <li class="progress_group">
+                                        <div class="bg_area">2018</div>
+                                        <div class="desc_box">
+                                            <div class="txt_box">
+                                                <h5>「국내 블루카본 정보시스템 및 평가관리기술 개발」과학기술정보통신부 주관<br/>2018 기후변화대응 대표기술 10선 선정</h5>
+                                            </div>
                                         </div>
-                                    </div>
-                                </div>
-                                <div class="progress_group">
-                                    <div class="bg_area">2017</div>
-                                    <div class="desc_box">
-                                        <div class="txt_box">
-                                            <span>해양수산부문 국가 온실가스 정보 및 통계 부문별 산정기관 지정<br/>'국내 블루카본 정보시스템 및 평가관리기술 개발 주간기관 선정(5년, 100억)</span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="progress_group">
-                                    <div class="bg_area">2018</div>
-                                    <div class="desc_box">
-                                        <div class="txt_box">
-                                            <span>「국내 블루카본 정보시스템 및 평가관리기술 개발」과학기술정보통신부 주관<br/>2018 기후변화대응 대표기술 10선 선정</span>
-                                        </div>
-                                    </div>
-                                </div>
+                                    </li>
+                                </ul>
                             </div>
                         </div>
                         <div class="section">

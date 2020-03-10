@@ -305,7 +305,7 @@ text-overflow:ellipsis; white-space:nowrap;}
 .progress_group .desc_box:nth-child(1){margin-top:0;}
 .progress_group .desc_box .txt_box{margin-top:25px; padding-top:0;}
 .progress_group .desc_box .txt_box:nth-child(1){margin-top:0;}
-.progress_group .desc_box .txt_box span{display:inline-block; font-size:16px; font-weight:600; color:#005cc0;}
+.progress_group .desc_box .txt_box h5{font-size:16px; font-weight:600; color:#005cc0;}
 .progress_group .desc_box .txt_box .bullet{margin-top:10px;}
 
 
