@@ -121,16 +121,16 @@
                                     <div class="img_box"><img src="resource/images/sub/img_sub4_1_5_3.gif" alt=""></div>
                                     <ul class="step_box">
                                         <li>
-                                            <div class="tit">해양수산부문 온실가스<br/>배출량 산정 및 관리체계 구축</div>
-                                            <div class="con">온실가스 통계 산정 및<br/>통합관리체계 구축</div>
+                                            <div class="tit"><p>해양수산부문 온실가스<br/>배출량 산정 및 관리체계 구축</p></div>
+                                            <div class="con"><p>온실가스 통계 산정 및<br/>통합관리체계 구축</p></div>
                                         </li>
                                         <li>
-                                            <div class="tit">해양수산부문 온실가스<br/>감축 기반구축</div>
-                                            <div class="con">신규 탄소흡수원 개발 및<br/>국제인증, 배출권 거래기반 구축</div>
+                                            <div class="tit"><p>해양수산부문 온실가스<br/>감축 기반구축</p></div>
+                                            <div class="con"><p>신규 탄소흡수원 개발 및<br/>국제인증, 배출권 거래기반 구축</p></div>
                                         </li>
                                         <li>
-                                            <div class="tit">국제협력 및 정부<br/>정책지원 강화</div>
-                                            <div class="con">기후변화 국제규범 대응,<br/>기후변화대응 계획 수립 및<br/>모니터링 체계 구축</div>
+                                            <div class="tit"><p>국제협력 및 정부<br/>정책지원 강화</p></div>
+                                            <div class="con"><p>기후변화 국제규범 대응,<br/>기후변화대응 계획 수립 및<br/>모니터링 체계 구축</p></div>
                                         </li>
                                     </ul>
                                 </div>
