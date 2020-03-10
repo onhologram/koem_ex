@@ -216,3 +216,12 @@
 
 .pop_close{display:block; position:absolute; right:-55px; top:0; width:50px; height:50px; background-color:#fff; text-indent:-9999px;}
 .pop_close::before{content:""; display:block; position:absolute; left:50%; top:50%; transform: translate(-50%,-50%); width:20px; height:20px; background:url(../images/common/icon_common_all.png) -164px -452px no-repeat;}
+
+
+
+
+
+@media all and (max-width: 1580px){
+
+
+}
