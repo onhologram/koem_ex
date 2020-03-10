@@ -178,13 +178,14 @@
                                 </tr>
                             </tbody>
                         </table>
+
                         <div class="paging_wrap">
                             <div class="paging">
                                 <span>
                                     <a href="#" class="arrow first">처음</a>
                                     <a href="#" class="arrow prev">이전</a>
                                 </span>
-
+                                <!-- 현재 페이지 활성화:li에 on클래스 붙을때 a태그에서->span태그로 변경 -->
                                 <ol class="num_btn_group">
                                     <li class="on"><span class="num_btn">1</span></li>
                                     <li><a href="#" class="num_btn">2</a></li>
@@ -197,28 +198,10 @@
                                     <li><a href="#" class="num_btn">9</a></li>
                                     <li><a href="#" class="num_btn">10</a></li>
                                 </ol>
-
                                 <span>
                                     <a href="#" class="arrow next">다음</a>
                                     <a href="#" class="arrow last">마지막</a>
                                 </span>
-
-                                <!-- <li class="arrow prev1"><a href="#">이전</a></li>
-                                <li class="arrow prev2"><a href="#">이전</a></li> -->
-
-                                <!-- <li class="on"><a href="#">1</a></li>
-                                <li><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#">5</a></li>
-                                <li><a href="#">6</a></li>
-                                <li><a href="#">7</a></li>
-                                <li><a href="#">8</a></li>
-                                <li><a href="#">9</a></li>
-                                <li><a href="#">10</a></li> -->
-
-                                <!-- <li class="arrow next1"><a href="#">다음</a></li>
-                                <li class="arrow next2"><a href="#">다음</a></li> -->
                             </div>
                         </div>
                     </div>
