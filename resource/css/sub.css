@@ -325,7 +325,7 @@ text-overflow:ellipsis; white-space:nowrap;}
 .content_area .sec .step_box li:nth-child(1) .tit{background:#7c859b;}
 .content_area .sec .step_box li:nth-child(2) .tit{background:#4d5974;}
 .content_area .sec .step_box li:nth-child(3) .tit{background:#192c55;}
-.content_area .sec .step_box li .con{height:117px; padding:30px 70px; border:1px solid #ddd; font-size:16px;}
+.content_area .sec .step_box li .con{height:117px; padding:25px 70px; border:1px solid #ddd; font-size:16px;}
 
 .sort_table{border-collapse:separate; border-spacing:5px;}
 .sort_table *{box-sizing:border-box; font-size:16px;}
