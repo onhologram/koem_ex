@@ -20,7 +20,7 @@
 
 /* body{overflow-x:hidden;} */
 
-#wrap{position:relative;}
+#wrap{position:relative; min-width:1200px;}
 
 #header{position:fixed; width:100%; height:100px; background:transparent; z-index:1;}
 #header .header_inner{position:relative; width:1580px; height:100%; margin:0 auto;}
