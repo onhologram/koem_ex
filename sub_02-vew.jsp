@@ -36,6 +36,8 @@
                                 </div>
                             </div>
                             <div class="writer_con">
+                                <!-- 뷰단은 데이터를 불러오거나 이미지가 들어갈 수 있으므로 max-width 값을 꼭 넣어준다 (100%까지만 찰 수 있도록) -->
+                                <!-- 안의 내용은 여백없도록 리셋시켜놓는게 좋음(사용자가 br로 넣을 수 있으므로) -->
                                 <div class="con_inner">
                                     <div class="subject_area">
                                         <p>

@@ -240,7 +240,7 @@ text-overflow:ellipsis; white-space:nowrap;}
 /* 서브02 - 공지사항 뷰 페이지*/
 .view h4{text-align:center; font-size:30px; color:#162b58; font-weight:400;}
 .notice_wrap{position:relative; margin-top:35px; border-top:2px solid #162b58;}
-.writer_group{padding:20px 0; border-bottom:1px solid #e1e1e1; box-sizing:border-box;}
+.writer_group{padding:20px 0; margin-bottom:60px; border-bottom:1px solid #e1e1e1; box-sizing:border-box;}
 .writer_group .writer_inner{width:400px; margin:0 auto;}
 .writer_group .writer_list{overflow:hidden;}
 .writer_group .writer_list li{float:left; position:relative; padding:0 23px 0 50px; box-sizing:border-box; font-size:17px;}
@@ -252,8 +252,8 @@ text-overflow:ellipsis; white-space:nowrap;}
 .writer_group .writer_list li::after{content:""; display:block; width:1px; height:14px; position:absolute; right:0; top:50%; transform:translateY(-50%); background-color:#e1e1e1;}
 .writer_group .writer_list li:nth-child(3)::after{content:none;}
 
-.writer_con .con_inner{width:1000px; margin:0 auto; padding-bottom:70px; border-bottom:1px solid #e1e1e1;}
-.writer_con .subject_area{padding:60px 0; box-sizing:border-box; text-align:center; font-size:20px; font-weight:600; line-height:1.5;}
+.writer_con .con_inner{width:1000px; max-width:100%; margin:0 auto; padding-bottom:70px; border-bottom:1px solid #e1e1e1;}
+.writer_con .subject_area{margin-bottom:60px;; box-sizing:border-box; text-align:center; font-size:20px; font-weight:600; line-height:1.5;}
 .writer_con .attach_area{padding:30px; border:1px solid #efefef; background-color:#f6f6f6; box-sizing:border-box;}
 .writer_con .attach_area span{display:block; margin-bottom:15px; font-weight:600; font-size:16px;}
 .writer_con .attach_area .attach_link{position:relative; display:block; padding-left:35px; font-size:15px;}
