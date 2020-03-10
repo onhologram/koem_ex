@@ -227,21 +227,15 @@ text-overflow:ellipsis; white-space:nowrap;}
 .paging_wrap{margin-top:60px;}
 .paging{width:600px; margin:0 auto;}
 .paging>span, .paging>ol{display: inline-block;}
-.paging>ol>li{display: inline-block; width:36px; height:36px;}
-
-.paging .num_btn, .paging>span>.arrow{display:block; position:relative; width:100%; height:100%; padding:6px 0; border:1px solid #e3e3e3; border-radius:100%; text-align:center; font-size:15px; box-sizing:border-box;}
-
-
-
-/* .paging>span, .paging ol li span, .paging ol li{display:inline-block; width:36px; height:36px;}
-.paging a, .paging ol li span{display:block; position:relative; width:100%; height:100%; padding:6px 0; border:1px solid #e3e3e3; border-radius:100%; text-align:center; font-size:15px; box-sizing:border-box;}
-.paging li.on span{background-color:#162b58; border-color:#162b58; color:#fff; font-weight:600;}
-.paging span .arrow{display: inline-block; background-color:#f0f0f0; text-indent:-9999px;}
-.paging span .arrow::before{content:""; display:block; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); width:12px; height:11px; background-repeat:no-repeat; background-position:0 0;}
+.paging>ol>li{display:inline-block; width:36px; height:36px;}
+.paging>ol>li.on span{background-color:#162b58; border-color:#162b58; color:#fff; font-weight:600;}
+.paging .num_btn{display:block; position:relative; width:100%; height:100%; padding:6px 0; border:1px solid #e3e3e3; border-radius:100%; text-align:center; font-size:15px; box-sizing:border-box;}
+.paging .arrow{display:inline-block; position:relative; width:36px; height:36px; padding:6px 0; border:1px solid #e3e3e3; border-radius:100%; background-color:#f0f0f0; text-indent:-9999px;  box-sizing:border-box;}
+.paging .arrow::before{content:""; display:block; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); width:12px; height:11px; background-repeat:no-repeat; background-position:0 0;}
 .paging .arrow.first::before{background-image: url(../images/sub/btn_pageFirst.png);}
 .paging .arrow.prev::before{background-image: url(../images/sub/btn_pagePrev.png); width:7px;}
 .paging .arrow.next::before{background-image: url(../images/sub/btn_pageNext.png); width:7px;}
-.paging .arrow.last::before{background-image: url(../images/sub/btn_pageLast.png);} */
+.paging .arrow.last::before{background-image: url(../images/sub/btn_pageLast.png);}
 
 /* 서브02 - 공지사항 뷰 페이지*/
 .view h4{text-align:center; font-size:30px; color:#162b58; font-weight:400;}
