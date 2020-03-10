@@ -245,9 +245,10 @@ text-overflow:ellipsis; white-space:nowrap;}
 .writer_group .writer_list{overflow:hidden;}
 .writer_group .writer_list li{float:left; position:relative; padding:0 23px 0 50px; box-sizing:border-box; font-size:17px;}
 .writer_group .writer_list li:nth-child(1){color:#005cb9;}
+
 .writer_group .writer_list li::before{content:""; display:block; width:16px; height:16px; position:absolute; left:25px; top:50%; transform:translateY(-50%); background:no-repeat 0 0;}
 .writer_group .writer_list li:nth-child(1)::before{background-image:url(../images/sub/icon_thumbView_detail1.gif);}
-.writer_group .writer_list li:nth-child(2)::before{background-image:url(../images/sub/icon_thumbView_detail2.gif);}
+.writer_group .writer_list li:nth-child(2)::before{background-image:url(../images/sub/icon_thumbView_detail2.gif); transform:translateY(-44%);}
 .writer_group .writer_list li:nth-child(3)::before{background-image:url(../images/sub/icon_thumbView_detail3.gif);}
 .writer_group .writer_list li::after{content:""; display:block; width:1px; height:14px; position:absolute; right:0; top:50%; transform:translateY(-50%); background-color:#e1e1e1;}
 .writer_group .writer_list li:nth-child(3)::after{content:none;}
