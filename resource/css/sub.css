@@ -158,7 +158,8 @@ ul.public.float>li:nth-child(2)::before{background:url(../images/sub/icon_iconLi
 
 .public.vertical>div{position:relative; padding-left:122px; box-sizing:border-box;}
 .public.vertical>div::before{content:""; display:block; position:absolute; left:0; top:0; width:100px; height:100px; background-repeat:no-repeat; background-position:0 0;}
-.public.vertical>div h5{padding-top:15px; color:#192c55;}
+.public.vertical>div h5{padding:15px 0 10px; color:#192c55;}
+.public.vertical>div p{font-size:16px;}
 .public.vertical>div{margin-top:50px;}
 .public.vertical>div:nth-child(1){margin-top:0;}
 .public.vertical>div:nth-child(1)::before{background:url(../images/sub/icon_iconList_3.gif);}
