@@ -211,16 +211,16 @@
                                     <tbody>
                                         <tr>
                                             <th rowspan="4" scope="row" class="bg1"><span>전략1</span>온실가스<br/>통계관리</th>
-                                            <td class="bg1">통계생산</td>
+                                            <th scope="row" class="bg1">통계생산</th>
                                             <td colspan="5">국가 온실가스 배출량산정 및 보고</td>
                                         </tr>
                                         <tr>
-                                            <td class="mid bg1">품질관리</td>
+                                            <th scope="row" class="mid bg1">품질관리</th>
                                             <td class="mid">통계 및 배출계수<br/>품질 진단</td>
                                             <td colspan="4" class="mid">활동자료 관리체계 개발 및 현장조사</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="max bg1">통합관리</td>
+                                            <th rowspan="2" scope="row" class="max bg1">통합관리</th>
                                             <td rowspan="2" class="max">통합관리<br/>기반 구축</td>
                                             <td colspan="2">DB구축</td>
                                             <td colspan="2">통합관리시스템 개발</td>
@@ -231,7 +231,7 @@
                                         </tr>
                                         <tr>
                                             <th rowspan="7" scope="row" class="bg2"><span>전략2</span>온실가스<br/>감축기반</th>
-                                            <td rowspan="3" class="bg2">블루카본<br/>연구개발</td>
+                                            <th rowspan="3" scope="row" class="bg2">블루카본<br/>연구개발</th>
                                             <td>공간정보구축(강화도)</td>
                                             <td colspan="2">공간정보구축(서&middot;남해권)</td>
                                             <td colspan="2">공간정보구축(동해&middot;제주권)</td>
@@ -244,7 +244,7 @@
                                             <td colspan="5">국제적 온실가스 산정&middot;보고&middot;검증 방법론 개발 및 국제인증 전략 수립</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="bg2">배출권<br/>거래 기반</td>
+                                            <th rowspan="2" scope="row" class="bg2">배출권<br/>거래 기반</th>
                                             <td rowspan="2">배출권거래 기반<br/>외부사업체계 정립</td>
                                             <td colspan="4">외부사업추진</td>
                                         </tr>
@@ -253,7 +253,7 @@
                                             <td colspan="2">신규 방법론 적용</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="bg2">감축목표</td>
+                                            <th rowspan="2" scope="row" class="bg2">감축목표</th>
                                             <td rowspan="2">감축계획 수립</td>
                                             <td colspan="4">감축방안 이행</td>
                                         </tr>
@@ -263,7 +263,7 @@
                                         </tr>
                                         <tr>
                                             <th rowspan="7" scope="row" class="bg3"><span>전략8</span>온실가스<br/>정책지원</th>
-                                            <td rowspan="3" class="bg3">국제협력</td>
+                                            <th rowspan="3" scope="row" class="bg3">국제협력</th>
                                             <td>IPCC 특별보고서 지원	</td>
                                             <td colspan="4">IPCC 총회 참석 및 6차 평가보고서 작성 지원</td>
                                         </tr>
@@ -274,7 +274,7 @@
                                             <td colspan="5">UNFCCC 등 해양수산부문 기후변화대응 의제 대응</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="bg3">계획이행<br/>평가</td>
+                                            <th rowspan="2" scope="row" class="bg3">계획이행<br/>평가</th>
                                             <td rowspan="2">기후변화대응계획<br/>분석</td>
                                             <td colspan="4">대응계획 이행</td>
                                         </tr>
@@ -283,7 +283,7 @@
                                             <td colspan="2">이행개선안 도출</td>
                                         </tr>
                                         <tr>
-                                            <td rowspan="2" class="bg3">기후변화<br/>모니터링</td>
+                                            <th rowspan="2" scope="row" class="bg3">기후변화<br/>모니터링</th>
                                             <td>국내&middot;외 사례분석</td>
                                             <td colspan="4">이행개선안 도출</td>
                                         </tr>
