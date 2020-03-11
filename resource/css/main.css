@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 /* visual */
-.visual{width:100%; height:993px; background: url(../images/main/page1_visual1.jpg) no-repeat 0 0; /*background-size:100%;*/}
+.visual{width:100%; height:993px; background: url(../images/main/page1_visual1.jpg) no-repeat 0 0; background-size:cover; /*background-size:100%;*/}
 .visual *{font-family:Malgun Gothic, NanumGothic, Dotum, Helvetica, sans-serif;}
 .visual .inner{/*width:900px; margin:0 auto;*/ padding-top:250px;}
 .visual .inner *{color:#fff; text-align:center;}
@@ -174,8 +174,8 @@
 .promo_group .know_area .slide_btn .btn.pause{background-position: -112px 0;}
 .promo_group .know_area .slide_btn .btn.next{background-position: -124px 0;}
 
-.call_area{overflow:hidden;}
-.call_area .item{width:50%; padding-top:45px; text-align:center; box-sizing:border-box;}
+.call_area{overflow:hidden; padding-top:45px;}
+.call_area .item{width:50%; text-align:center; box-sizing:border-box; font-size:0;}
 .call_area .item>div{display:inline-block;}
 .call_area .item .txt{vertical-align:super;}
 .call_area .item .txt p{font-size:22px;}
@@ -185,16 +185,24 @@
 .call_area .right{float:right;}
 
 /* banner */
-.banner{}
-.section.banner .inner{position:relative; padding:0 72px; box-sizing:border-box;}
-.section.banner .inner .banner_list_wrap{overflow:hidden; width:1436px;}
-.banner_list{width:2000px;}
+.section.banner .inner .banner_list_wrap{position:relative; width:1436px; margin:0 auto;}
+.section.banner .inner .banner_list_wrap .banner_list_box{overflow:hidden;}
+.banner_list{width:2000px; height:62px;}
 .banner_list li{float:left; width:200px; height:62px; margin-left:6px;}
 .banner_list li:nth-child(1){margin-left:0;}
 .banner_list li a{display:block; border:1px solid #ddd; overflow: hidden;}
 .banner_list li a img{/*width:100%;*/ margin: -1px 0 0 -1px;}
 .banner_list li a:hover{border:2px solid #005cb9;}
 .banner_list li a:hover img {margin: -2px 0 0 -2px;}
+
+.banner_list_wrap span{visibility:hidden; display:inline-block; position:absolute; top:50%; transform:translateY(-50%);}
+.banner_list_wrap .prev{left:-40px;}
+.banner_list_wrap .next{right:-40px;}
+.banner_list_wrap span a{display:block; width:35px; height:35px; background: #fff url(../images/common/icon_common_all.png) no-repeat; text-indent:-9999px;}
+.banner_list_wrap .prev a{background-position:0 -150px;}
+.banner_list_wrap .next a{background-position:0 -200px;}
+
+
 
 /* main popup */
 .pop_bg{display:none; position:absolute; left:0; top:0; width:100%; height:100%; background-color:rgba(2, 2, 2, 0.6); z-index:99;}
@@ -234,18 +242,31 @@
     /* notice */
     .notice .inner{padding-left:10px; padding-right:68px;}
     .promo_group .youtube_area{width:28%;}
-    .promo_group .notice_area.main{width:28%;}
-    .promo_group .notice_area.sub{width:16%;}
+    .promo_group .notice_area.main{width:27%; padding:45px 15px;}
+    .promo_group .notice_area.sub{width:17%;}
     .promo_group .know_area{width:28%;}
 
+    .promo_group .notice_area p{font-size:13px;}
+    .promo_group .notice_area.main .bottom ul.bullet li a{font-size:13px;}
+    .promo_group .notice_area.sub ul li a{padding:15px;}
+    .promo_group .notice_area.sub ul li:nth-child(1)::after{right:0px; top:65px;}
+    .promo_group .notice_area.sub ul li:nth-child(2)::after{right:0px; top:65px;}
+    .promo_group .notice_area.sub ul li:nth-child(3)::after{right:15px; top:65px;}
+    .promo_group .know_area .slide_group li a{width:100%;}
+    .promo_group .know_area .slide_group li a img{width:100%; height:100%;}
+
+    .call_area .item{width:100%; text-align:center;}
+    .call_area .item:last-child{padding-top:10px;}
+    .call_area .item>div{display:inline-block;}
+    .call_area .item.left .txt p{text-indent:-40px;}
+
+
     /* banner */
-    .section.banner .inner{padding:0 126px;}
-    .banner_list{overflow:hidden;}
-    .banner_list li{float:left; width:200px; margin-left:6px;}
-    .banner_list li:nth-child(1){margin-left:0;}
-    .banner_list li a{display:block; height:58px; border:1px solid #ddd;}
-    .banner_list li a:hover{border:2px solid #005cb9;}
-    .banner_list li a img{width:100%;}
+    .section.banner .inner{padding-left:48px; padding-right:92px;}
+    .section.banner .inner .banner_list_wrap{width:100%;}
+    .banner_list_wrap span{visibility:visible;}
+
+
 
 
 }
