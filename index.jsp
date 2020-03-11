@@ -362,22 +362,32 @@
                         </div>
                     </div>
                     <div class="roll_area">
-                        <div class="roll_tit">
-                            <span>방제조치현황</span>
-                        </div>
+                        <p class="roll_tit">방제조치현황</p>
                         <div class="roll_cont">
-                            <div class="roll_txt">
-                                <div class="left">
-                                    <div class="bullet">[20.1.31.] 목포지사 오염사고 조치</div>
+                            <ul class="bullet">
+                                <li class="on">
+                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                </li>
+                                <li>
+                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                </li>
+                                <li>
+                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                </li>
+                                <li>
+                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                </li>
+                                <li>
+                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                </li>
+                            </ul>
+                            <div class="right">
+                                <a href="#" class="arr prev">prev</a>
+                                <div class="num_wrap">
+                                    <span class="num first">1</span>
+                                    <span class="num sum">5</span>
                                 </div>
-                                <div class="right">
-                                    <a href="#" class="arr prev">prev</a>
-                                    <div class="num_wrap">
-                                        <span class="num first">1</span>
-                                        <span class="num sum">5</span>
-                                    </div>
-                                    <a href="#" class="arr next">next</a>
-                                </div>
+                                <a href="#" class="arr next">next</a>
                             </div>
                         </div>
                     </div>
