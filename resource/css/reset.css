@@ -15,7 +15,7 @@ address{font-style:normal; font-weight:normal;}
 caption,legend{line-height:0; font-size:1px; overflow:hidden;}
 hr{display:none;}
 /* main,header,section,nav,footer,aside,article,figure{display:block;} */
-a{color:#000; text-decoration:none;}
+a{color:#000; text-decoration:none; box-sizing:border-box;}
 
 /* form */
 textarea{border:1px solid #dbdbdb;}

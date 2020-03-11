@@ -577,29 +577,37 @@
             <!-- banner -->
             <div class="section banner">
                 <div class="inner">
-                    <ul class="banner_list">
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
-                        </li>
-                        <li>
-                            <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
-                        </li>
-                    </ul>
+                    <div class="banner_list_wrap">
+                        <ul class="banner_list">
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner02.jpg" alt=""></a>
+                            </li>
+                            <li>
+                                <a href="#"><img src="resource/images/main/bottom_banner01.jpg" alt=""></a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
