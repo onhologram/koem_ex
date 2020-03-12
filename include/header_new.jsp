@@ -7,7 +7,7 @@
             </a>
         </h1>
         <ul class="gnb" id="gnb">
-            <li>
+            <li class="on">
                 <a href="/sub_01.jsp">정보공개</a>
                 <div class="sub_menu">
                     <div class="inner">
@@ -57,7 +57,7 @@
                     </div>
                 </div>
             </li>
-            <li class="on">
+            <li>
                 <a href="#">소통참여</a>
                 <div class="sub_menu">
                     <div class="inner">
