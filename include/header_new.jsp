@@ -7,11 +7,11 @@
             </a>
         </h1>
         <ul class="gnb" id="gnb">
-            <li class="on">
+            <li>
                 <a href="/sub_01.jsp">정보공개</a>
                 <div class="sub_menu">
                     <div class="inner">
-                        <div class="sub_title">
+                        <div class="sub_title sub_title1">
                             <strong>정보공개</strong>
                             <p>KOEM은 해양환경 공공정보를 더 넓게 더 바르게<br/> 알리겠습니다.</p>
                         </div>
@@ -57,11 +57,11 @@
                     </div>
                 </div>
             </li>
-            <li>
+            <li class="on">
                 <a href="#">소통참여</a>
                 <div class="sub_menu">
                     <div class="inner">
-                        <div class="sub_title">
+                        <div class="sub_title sub_title2">
                             <strong>소통참여</strong>
                             <p>해양환경공단은 국민신뢰와<br/> 고객감동의 고객만족 우수기관을<br/> 지향합니다.</p>
                         </div>
@@ -85,27 +85,29 @@
                                 </li>
                             </ul>
                             <ul class="depth_list">
-                                <a href="#">신고센터</a>
-                                <ul class="depth_sub_list">
-                                    <li><a href="#">공익신고</a></li>
-                                    <li><a href="#">부정부패 신고</a></li>
-                                    <li><a href="#">갑질행위 신고</a></li>
-                                    <li><a href="#">청탁금지법 위반신고</a></li>
-                                    <li>
-                                        <a href="#">
-                                            안전신문고<img src="resource/images/common/icon_newWindow.png" alt="">
-                                        </a>
-                                    </li>
-                                    <li><a href="#">성희롱&middot;성폭력 신고</a></li>
-                                    <li><a href="#">인권침해신고</a></li>
-                                    <li><a href="#">직장내괴롭힘 신고</a></li>
-                                    <li><a href="#">유해해양생물 신고</a></li>
-                                    <li>
-                                        <a href="#">
-                                            레드휘슬<img src="resource/images/common/icon_newWindow.png" alt="">
-                                        </a>
-                                    </li>
-                                </ul>
+                                <li>
+                                    <a href="#">신고센터</a>
+                                    <ul class="depth_sub_list">
+                                        <li><a href="#">공익신고</a></li>
+                                        <li><a href="#">부정부패 신고</a></li>
+                                        <li><a href="#">갑질행위 신고</a></li>
+                                        <li><a href="#">청탁금지법 위반신고</a></li>
+                                        <li>
+                                            <a href="#">
+                                                안전신문고<img src="resource/images/common/icon_newWindow.png" alt="">
+                                            </a>
+                                        </li>
+                                        <li><a href="#">성희롱&middot;성폭력 신고</a></li>
+                                        <li><a href="#">인권침해신고</a></li>
+                                        <li><a href="#">직장내괴롭힘 신고</a></li>
+                                        <li><a href="#">유해해양생물 신고</a></li>
+                                        <li>
+                                            <a href="#">
+                                                레드휘슬<img src="resource/images/common/icon_newWindow.png" alt="">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
                             </ul>
                             <ul class="depth_list">
                                 <li>
@@ -128,7 +130,7 @@
                 <a href="/sub_02.jsp">소식정보</a>
                 <div class="sub_menu">
                     <div class="inner">
-                        <div class="sub_title">
+                        <div class="sub_title sub_title3">
                             <strong>소식정보</strong>
                             <p>해양환경공단의 다양한 소식을<br/> 빠르게 전해드립니다.</p>
                         </div>
@@ -187,7 +189,7 @@
                 <a href="/sub_03.jsp">사업안내</a>
                 <div class="sub_menu">
                     <div class="inner">
-                        <div class="sub_title">
+                        <div class="sub_title sub_title4">
                             <strong>사업안내</strong>
                             <p>건강한 바다, 깨끗한 바다, 안전한 바다를<br/> 만들어 海맑은 미래를<br/> 열겠습니다.</p>
                         </div>
@@ -250,7 +252,7 @@
                 <a href="#">공단소개</a>
                 <div class="sub_menu">
                     <div class="inner">
-                        <div class="sub_title">
+                        <div class="sub_title sub_title5">
                             <strong>공단소개</strong>
                             <p>건강한 바다, 풍요로운 미래,<br/> 행복한 국민과 함께하는 해양환경공단</p>
                         </div>
@@ -306,7 +308,7 @@
                 <a href="#">사회적가치</a>
                 <div class="sub_menu">
                     <div class="inner">
-                        <div class="sub_title">
+                        <div class="sub_title sub_title6">
                             <strong>사회적가치</strong>
                             <p>KOEM은 지속가능성을 기반으로 한<br/> 경영활동을 통해 국민기업으로서<br/> 책임을 다하겠습니다.</p>
                         </div>
