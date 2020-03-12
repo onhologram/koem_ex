@@ -18,7 +18,7 @@
         <!-- visual -->
         <div class="visual">
             <div class="inner">
-                <!-- <div class="visual_txt">
+                <div class="visual_txt">
                     <p class="txt_top">
                         <span class="txt_motion">건강한 바다,</span>
                         <span class="txt_motion">풍요로운 미래,</span>
@@ -48,7 +48,7 @@
                         <a href="#"></a>
                     </span>
                     <p class="txt"></p>
-                </div> -->
+                </div>
             </div>
             <div class="quick_menu">
                 <div class="img_box">
@@ -70,7 +70,7 @@
         </div>
 
         <!-- main contents-->
-        <div class="section_wrap" style="display: none;">
+        <div class="section_wrap">
             <!-- news -->
             <div class="section news">
                 <div class="inner">
@@ -1030,7 +1030,7 @@
         </div>
 
         <!-- footer -->
-        <!-- <%@ include file="include/footer.jsp" %> -->
+        <%@ include file="include/footer.jsp" %>
     </div><!--//wrap -->
 </body>
 
