@@ -166,7 +166,7 @@
     #header .header_inner .util{right:10px;}
 
     /* footer */
-    .footer_top_inner{width:auto;}
+    .footer_top_inner{width:auto; padding-left:10px; padding-right:68px;}
     .footer_top_inner .footer_list{padding-left:10px;}
     .footer_top_inner .footer_list>li{padding:0 0 0 12px;}
 
@@ -177,6 +177,7 @@
     .footer_bottom_inner .footer_info>ul, .footer_bottom_inner .footer_info address{width:auto; margin-left:280px;}
     .footer_bottom_inner .footer_info address{margin-top:5px;}
     .footer_bottom_inner .footer_right{right:1%; top:170px;}
+    .footer_mark{margin-top:10px;}
 }
 
 @media all and (max-width: 1200px){
