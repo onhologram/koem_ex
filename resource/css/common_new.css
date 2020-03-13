@@ -248,7 +248,7 @@
   .header.mobile .util .util_group span{display:inline-block; margin:0 10px; vertical-align:middle;}
 
   .header.mobile .util .util_group span a{display:block; color:#fff;}
-  .header .util .util_group span:nth-child(2), .header.mobile .util .util_group span:nth-child(2){display:none;}
+  .header.mobile .util .util_group span:nth-child(2){display:none;}
   .header.mobile .util .util_group span .eng{padding:5px 10px; border:1px solid #fff; font-size:14px;}
 
   .header.mobile .util .util_group span .sitemap_pop{width:20px; height:20px; background-image:url(../images/common/icon_header_all_mob.png); background-position:0 0;}
@@ -275,6 +275,8 @@
 @media all and (max-width: 640px){
   .header .util .util_info{display:none;}
   .header .util .util_group{margin-top:10px;}
+  .header .util .util_group span:first-child{display:none;}
+  .header .util .util_group span:nth-child(2){margin:0;}
   .header h1{top:25px;}
   .header h1 img{width:80%;}
 
