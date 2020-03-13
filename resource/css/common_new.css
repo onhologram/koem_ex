@@ -263,6 +263,10 @@
   /* .header.mobile .gnb>li .sub_menu.on .depth{padding-right:68px;} */
 }
 
+@media all and (max-width: 980px){
+  .quick_menu .sns_box{display:none;}
+}
+
 @media all and (max-width: 768px){
   .quick_menu{display:none;}
   .header.mobile .gnb>li .sub_menu.on .depth{padding-right:0;}
