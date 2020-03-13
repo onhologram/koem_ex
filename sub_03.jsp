@@ -12,7 +12,7 @@
 </head>
 <body class="sub">
     <div id="wrap">
-        <%@ include file="include/header.jsp" %>
+        <%@ include file="include/header_new.jsp" %>
         <div class="container business">
             <div class="inner">
                 <h2>사업안내</h2>
