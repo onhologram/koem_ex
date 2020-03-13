@@ -195,80 +195,90 @@
 }
 
 @media all and (max-width: 1200px){
-  .header>.inner{background-color:#07a7e3;}
-  .header h1{display:none;}
-  .header .gnb{width:100%; height:100vh; padding-top:0px; margin:0; overflow-y:auto;}
-  .header .gnb>li>a{visibility:hidden;}
-  .header .gnb>li .sub_menu{display:block; width:100%; margin-left:0px; background-image:none; background-color:#fff;}
-  .header .gnb>li .sub_menu.on .sub_title{background-color:#fff;}
-  .header .gnb>li .sub_menu.on strong{font-weight:600;}
-  .header .gnb>li .sub_menu.on strong a{color:#07a7e3;}
-  .header .gnb>li .sub_menu.on .depth{display:block;}
+  .header .gnb>li{display:none;}
+
+  .header.mobile>.inner{background-color:#07a7e3;}
+  .header.mobile h1{display:none;}
+  .header.mobile .gnb{width:100%; height:100vh; padding-top:0px; margin:0; overflow-y:auto;}
+  .header.mobile .gnb>li{display:block;}
+  .header.mobile .gnb>li>a{visibility:hidden;}
+  .header.mobile .gnb>li .sub_menu{display:block; width:100%; margin-left:0px; background-image:none; background-color:#fff;}
+  .header.mobile .gnb>li .sub_menu.on .sub_title{background-color:#fff;}
+  .header.mobile .gnb>li .sub_menu.on strong{font-weight:600;}
+  .header.mobile .gnb>li .sub_menu.on strong a{color:#07a7e3;}
+  .header.mobile .gnb>li .sub_menu.on .depth{display:block;}
 
   /* sub_menu */
-  .sub_menu .inner{position:relative; width:100%; height:100vh; background-color:#f0f0f0;}
-  .sub_menu .sub_title{position:relative; left:0; width:25%; height:76px; padding:25px 0; text-align:center; border-top:1px solid #dfdfdf; z-index:3; display:table;}
-  .sub_menu .sub_title::after{content:none;}
-  .sub_menu .sub_title1{top:0;}
-  .sub_menu .sub_title2{top:76px;}
-  .sub_menu .sub_title3{top:152px;}
-  .sub_menu .sub_title4{top:228px;}
-  .sub_menu .sub_title5{top:304px;}
-  .sub_menu .sub_title6{top:380px;}
-  .sub_menu .sub_title strong{font-size:20px; font-weight:400; display:table-cell; vertical-align:middle;}
-  .sub_menu .sub_title strong a{cursor:pointer; color:#464646;}
-  .sub_menu .sub_title p{margin-top:15px; font-size:14px; color:#666;}
+  .header.mobile .sub_menu .inner{position:relative; width:100%; height:100vh; background-color:#f0f0f0;}
+  .header.mobile .sub_menu .sub_title{position:relative; left:0; width:25%; height:76px; padding:25px 0; text-align:center; border-top:1px solid #dfdfdf; z-index:3; display:table;}
+  .header.mobile .sub_menu .sub_title::after{content:none;}
+  .header.mobile .sub_menu .sub_title1{top:0;}
+  .header.mobile .sub_menu .sub_title2{top:76px;}
+  .header.mobile .sub_menu .sub_title3{top:152px;}
+  .header.mobile .sub_menu .sub_title4{top:228px;}
+  .header.mobile .sub_menu .sub_title5{top:304px;}
+  .header.mobile .sub_menu .sub_title6{top:380px;}
+  .header.mobile .sub_menu .sub_title strong{font-size:20px; font-weight:400; display:table-cell; vertical-align:middle;}
+  .header.mobile .sub_menu .sub_title strong a{cursor:pointer; color:#464646;}
+  .header.mobile .sub_menu .sub_title p{margin-top:15px; font-size:14px; color:#666;}
 
-  .sub_menu .depth{position:relative; display:none; width:75%; height:100vh; /*overflow:visible; z-index:3;*/}
+  .header.mobile .sub_menu .depth{position:relative; display:none; width:75%; height:100vh; /*overflow:visible; z-index:3;*/}
   /* .sub_menu .depth.on{display:block;} */
 
-  .sub_menu .depth ul.depth_list{width:100%; height:auto;}
-  .sub_menu .depth ul.depth_list>li{display:block; padding:10px 0;  border-bottom:1px solid #ddd;}
-  .sub_menu .depth ul.depth_list>li>a{display:block; position:relative; width:100%; padding:12px 0; font-weight:600; font-size:18px; /*pointer-events:none;*/ cursor: pointer;}
-  .sub_menu .depth ul.depth_list>li>a.arrow::after{content:""; display:block; opacity:1; position:absolute; right:10px; top:50%; transform:translateY(-50%); width:18px; height:9px; background: url(../images/common/icon_allNav_ar_mob.gif) no-repeat 0 0;}
-  .sub_menu .depth ul.depth_list>li>a:hover{background-color:#fff; color:#222;}
-  .sub_menu .depth ul.depth_list>li>a:hover::after{right:10px;}
-  .sub_menu .depth ul.depth_list>li.on .depth_sub_list{display:block; border-top:2px solid #222;}
-  .sub_menu .depth ul.depth_list>li.on >a::after{background-image: url(../images/common/icon_allNav_ar_active_mob.gif);}
+  .header.mobile .sub_menu .depth ul.depth_list{width:100%; height:auto;}
+  .header.mobile .sub_menu .depth ul.depth_list>li{display:block; padding:10px 0;  border-bottom:1px solid #ddd;}
+  .header.mobile .sub_menu .depth ul.depth_list>li>a{display:block; position:relative; width:100%; padding:12px 0; font-weight:600; font-size:18px; /*pointer-events:none;*/ cursor: pointer;}
+  .header.mobile .sub_menu .depth ul.depth_list>li>a.arrow::after{content:""; display:block; opacity:1; position:absolute; right:10px; top:50%; transform:translateY(-50%); width:18px; height:9px; background: url(../images/common/icon_allNav_ar_mob.gif) no-repeat 0 0;}
+  .header.mobile .sub_menu .depth ul.depth_list>li>a:hover{background-color:#fff; color:#222;}
+  .header.mobile .sub_menu .depth ul.depth_list>li>a:hover::after{right:10px;}
+  .header.mobile .sub_menu .depth ul.depth_list>li.on .depth_sub_list{display:block; border-top:2px solid #222;}
+  .header.mobile .sub_menu .depth ul.depth_list>li.on >a::after{background-image: url(../images/common/icon_allNav_ar_active_mob.gif);}
 
-  .sub_menu .depth ul.depth_list .depth_sub_list{display:none; position:relative; padding-top:10px; background-color:#fff; z-index:5;}
+  .header.mobile .sub_menu .depth ul.depth_list .depth_sub_list{display:none; position:relative; padding-top:10px; background-color:#fff; z-index:5;}
 
-  .header .util{position:absolute; right:25px; top:15px;}
-  .header .util::after{content:""; display:block; clear:both;}
-  .header .util ul::after{content:""; display:block; clear:both;}
-  .header .util ul li{float:left;}
-  .header .util .util_info ul li a{display:inline-block; position:relative; padding:0 10px; font-size:13px; color:#fff;}
-  .header .util .util_info ul li a::before{content:""; display:block; position:absolute; left:0; top:5px; width:1px; height:9px; background-color:#fff;}
-  .header .util .util_info ul li:nth-child(1) a::before{content:none;}
+  .header.mobile .util{position:absolute; right:25px; top:15px;}
+  .header.mobile .util::after{content:""; display:block; clear:both;}
+  .header.mobile .util ul::after{content:""; display:block; clear:both;}
+  .header.mobile .util ul li{float:left;}
+  .header.mobile .util .util_info ul li a{display:inline-block; position:relative; padding:0 10px; font-size:13px; color:#fff;}
+  .header.mobile .util .util_info ul li a::before{content:""; display:block; position:absolute; left:0; top:5px; width:1px; height:9px; background-color:#fff;}
+  .header.mobile .util .util_info ul li:nth-child(1) a::before{content:none;}
 
-  .header .util .util_group{float:right; margin-top:20px;}
-  .header .util .util_group span{display:inline-block; margin:0 10px; vertical-align:middle;}
+  .header.mobile .util .util_group{float:right; margin-top:20px;}
+  .header.mobile .util .util_group span{display:inline-block; margin:0 10px; vertical-align:middle;}
 
-  .header .util .util_group span a{display:block; color:#fff;}
-  .header .util .util_group span:nth-child(2){display:none;}
-  .header .util .util_group span .eng{padding:5px 10px; border:1px solid #fff; font-size:14px;}
+  .header.mobile .util .util_group span a{display:block; color:#fff;}
+  .header .util .util_group span:nth-child(2), .header.mobile .util .util_group span:nth-child(2){display:none;}
+  .header.mobile .util .util_group span .eng{padding:5px 10px; border:1px solid #fff; font-size:14px;}
 
-  .header .util .util_group span .sitemap_pop{width:20px; height:20px; background-image:url(../images/common/icon_header_all_mob.png); background-position:0 0;}
-  .header .util .util_group span .search_input{display:none;}
-  .header .util .util_group span .search_input input{width:260px; height:40px; background-color:#07a7e3; color:#fff; border:none;}
-  .header .util .util_group span .search_input input::placeholder{color:#fff;}
-  .header .util .util_group span .search_input .search_btn{position:relative; width:66px; height:40px; margin-left:-5px; background-color:#07a7e3; text-indent:-9999px;}
-  .header .util .util_group span .search_input .search_btn::before{content:""; display:block; position:absolute; right:15px; top:8px; width:22px; height:23px; background-image:url(../images/common/icon_common_all.png); background-repeat:no-repeat; background-position:-75px -450px;}
+  .header.mobile .util .util_group span .sitemap_pop{width:20px; height:20px; background-image:url(../images/common/icon_header_all_mob.png); background-position:0 0;}
+  .header.mobile .util .util_group span .search_input{display:none;}
+  .header.mobile .util .util_group span .search_input input{width:260px; height:40px; background-color:#07a7e3; color:#fff; border:none;}
+  .header.mobile .util .util_group span .search_input input::placeholder{color:#fff;}
+  .header.mobile .util .util_group span .search_input .search_btn{position:relative; width:66px; height:40px; margin-left:-5px; background-color:#07a7e3; text-indent:-9999px;}
+  .header.mobile .util .util_group span .search_input .search_btn::before{content:""; display:block; position:absolute; right:15px; top:8px; width:22px; height:23px; background-image:url(../images/common/icon_common_all.png); background-repeat:no-repeat; background-position:-75px -450px;}
 
 }
 
 @media all and (max-width: 1024px){
-  .header .gnb>li .sub_menu.on .depth{padding-right:68px;}
+  .header.mobile .gnb>li .sub_menu.on .depth{padding-right:68px;}
   .header .util{right:68px;}
 }
 
 @media all and (max-width: 768px){
   .quick_menu{display:none;}
-  .header .gnb>li .sub_menu.on .depth{padding-right:0;}
+  .header.mobile .gnb>li .sub_menu.on .depth{padding-right:0;}
+  .header.mobile .util{right:20px;}
   .header .util{right:10px;}
 }
 
 @media all and (max-width: 640px){
-  .sub_menu .sub_title strong{font-size:16px;}
-  .sub_menu .depth ul.depth_list>li>a{font-size:15px;}
+  .header .util .util_info{display:none;}
+  .header .util .util_group{margin-top:10px;}
+  .header h1{top:25px;}
+  .header h1 img{width:80%;}
+
+  .header.mobile .util .util_info{display:block;}
+  .header.mobile .sub_menu .sub_title strong{font-size:16px;}
+  .header.mobile .sub_menu .depth ul.depth_list>li>a{font-size:15px;}
 }

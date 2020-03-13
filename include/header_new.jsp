@@ -7,7 +7,7 @@
             </a>
         </h1>
         <ul class="gnb" id="gnb">
-            <li class="on">
+            <li>
                 <a href="/sub_01.jsp">정보공개</a>
                 <div class="sub_menu">
                     <div class="inner">
@@ -253,7 +253,7 @@
                 <div class="sub_menu">
                     <div class="inner">
                         <div class="sub_title sub_title5">
-                            <strong><a href="#">공단소개</a></strong>
+                            <strong>공단소개</strong>
                             <p>건강한 바다, 풍요로운 미래,<br/> 행복한 국민과 함께하는 해양환경공단</p>
                         </div>
                         <div class="depth">
@@ -366,7 +366,7 @@
                                 </li>
                             </ul>
                             <ul class="depth_list">
-                                <li class="on">
+                                <li >
                                     <a href="#" class="arrow">경영혁신</a>
                                     <ul class="depth_sub_list">
                                         <li><a href="#">비전 및 추진체계</a></li>
