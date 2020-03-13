@@ -257,12 +257,10 @@
   .header.mobile .util .util_group span .search_input input::placeholder{color:#fff;}
   .header.mobile .util .util_group span .search_input .search_btn{position:relative; width:66px; height:40px; margin-left:-5px; background-color:#07a7e3; text-indent:-9999px;}
   .header.mobile .util .util_group span .search_input .search_btn::before{content:""; display:block; position:absolute; right:15px; top:8px; width:22px; height:23px; background-image:url(../images/common/icon_common_all.png); background-repeat:no-repeat; background-position:-75px -450px;}
-
 }
 
 @media all and (max-width: 1024px){
-  .header.mobile .gnb>li .sub_menu.on .depth{padding-right:68px;}
-  .header .util{right:68px;}
+  /* .header.mobile .gnb>li .sub_menu.on .depth{padding-right:68px;} */
 }
 
 @media all and (max-width: 768px){
