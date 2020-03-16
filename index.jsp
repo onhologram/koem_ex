@@ -361,33 +361,35 @@
                             <a href="#">more</a>
                         </div>
                     </div>
-                    <div class="roll_area">
-                        <p class="roll_tit">방제조치현황</p>
-                        <div class="roll_cont">
-                            <ul class="bullet">
-                                <li class="on">
-                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
-                                </li>
-                                <li>
-                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
-                                </li>
-                                <li>
-                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
-                                </li>
-                                <li>
-                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
-                                </li>
-                                <li>
-                                    <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
-                                </li>
-                            </ul>
-                            <div class="right">
-                                <a href="#" class="arr prev">prev</a>
-                                <div class="num_wrap">
-                                    <span class="num first">1</span>
-                                    <span class="num sum">5</span>
+                    <div class="roll_wrap">
+                        <div class="roll_area">
+                            <p class="roll_tit">방제조치현황</p>
+                            <div class="roll_cont">
+                                <ul class="bullet">
+                                    <li class="on">
+                                        <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">[20.1.31.] 목포지사 오염사고 조치</a>
+                                    </li>
+                                </ul>
+                                <div class="right">
+                                    <a href="#" class="arr prev">prev</a>
+                                    <div class="num_wrap">
+                                        <span class="num first">1</span>
+                                        <span class="num sum">5</span>
+                                    </div>
+                                    <a href="#" class="arr next">next</a>
                                 </div>
-                                <a href="#" class="arr next">next</a>
                             </div>
                         </div>
                     </div>
@@ -555,21 +557,17 @@
                         </div>
                     </div>
                     <div class="call_area">
-                        <div class="item left">
-                            <div class="txt">
-                                <p>해양오염사고 신고전화</p>
-                            </div>
-                            <div class="call_num">
+                        <div class="item">
+                            <p>
+                                해양오염사고 신고전화
                                 <span>02-3498-8600</span>
-                            </div>
+                            </p>
                         </div>
-                        <div class="item right">
-                            <div class="txt">
-                                <p>방제분담금센터 연락처</p>
-                            </div>
-                            <div class="call_num">
+                        <div class="item">
+                            <p>
+                                방제분담금센터 연락처
                                 <span>02-3498-7111~2</span>
-                            </div>
+                            </p>
                         </div>
                     </div>
                 </div>

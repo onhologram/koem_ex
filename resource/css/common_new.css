@@ -272,7 +272,7 @@
 
   .footer_top{display:none;}
   .footer_bottom{background-image: url(../images/common/bg_footGnb_mo.gif); background-repeat:repeat-x; background-size:100%;}
-  .footer_bottom_inner{padding-top:75px; padding-bottom:30px;}
+  .footer_bottom_inner{padding-top:75px; padding-bottom:40px;}
   .footer_bottom_inner .footer_logo{left:30px; top:82px;}
   .footer_bottom_inner .footer_info>ul{padding-right:120px;}
   .footer_bottom_inner .footer_info address{margin-top:60px; margin-left:30px;}
@@ -281,7 +281,7 @@
   .footer_bottom_inner .footer_info address ul li{width:48%; margin-left:0;}
   .footer_bottom_inner .footer_info address ul li:nth-child(2n){margin-left:4%;}
 
-  .footer_bottom_inner .footer_info address p{margin-top:50px;}
+  .footer_bottom_inner .footer_info address p{margin-top:40px;}
   .footer_bottom_inner .footer_right{top:65px;}
 
   .footer_mark{display:none;}
