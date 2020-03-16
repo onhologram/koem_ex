@@ -261,10 +261,31 @@
 
 @media all and (max-width: 1024px){
   /* .header.mobile .gnb>li .sub_menu.on .depth{padding-right:68px;} */
+  .footer_bottom_inner .footer_info>ul{display:none;}
 }
 
 @media all and (max-width: 980px){
   .quick_menu .sns_box{display:none;}
+
+  .section.notice{margin-bottom:0;}
+  .section.banner{display:none;}
+
+  .footer_top{display:none;}
+  .footer_bottom{background-image: url(../images/common/bg_footGnb_mo.gif); background-repeat:repeat-x; background-size:100%;}
+  .footer_bottom_inner{padding-top:75px; padding-bottom:30px;}
+  .footer_bottom_inner .footer_logo{left:30px; top:82px;}
+  .footer_bottom_inner .footer_info>ul{padding-right:120px;}
+  .footer_bottom_inner .footer_info address{margin-top:60px; margin-left:30px;}
+
+
+  .footer_bottom_inner .footer_info address ul li{width:48%; margin-left:0;}
+  .footer_bottom_inner .footer_info address ul li:nth-child(2n){margin-left:4%;}
+
+  .footer_bottom_inner .footer_info address p{margin-top:50px;}
+  .footer_bottom_inner .footer_right{top:65px;}
+
+  .footer_mark{display:none;}
+
 }
 
 @media all and (max-width: 768px){
@@ -272,6 +293,7 @@
   .header.mobile .gnb>li .sub_menu.on .depth{padding-right:0;}
   .header.mobile .util{right:20px;}
   .header .util{right:10px;}
+
 }
 
 @media all and (max-width: 640px){
@@ -285,4 +307,18 @@
   .header.mobile .util .util_info{display:block;}
   .header.mobile .sub_menu .sub_title strong{font-size:16px;}
   .header.mobile .sub_menu .depth ul.depth_list>li>a{font-size:15px;}
+
+
+  .footer_bottom_inner .footer_logo{width:90%; text-align:center;}
+  .footer_bottom_inner .footer_info>ul{padding-right:120px;}
+  .footer_bottom_inner .footer_info address{margin-top:140px; margin-left:30px;}
+
+
+  .footer_bottom_inner .footer_info address ul li{width:100%; margin-left:0; padding-top:5px;}
+  .footer_bottom_inner .footer_info address ul li:nth-child(1){padding-top:0;}
+  .footer_bottom_inner .footer_info address ul li:nth-child(2n){margin-left:0;}
+
+  .footer_bottom_inner .footer_info address p{margin-top:50px;}
+  .footer_bottom_inner .footer_right{top:140px; right:0; width:100%; padding:0 30px;}
+  .footer_right .branch_wrap>div{width:100%;}
 }
