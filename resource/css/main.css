@@ -70,7 +70,7 @@
 .tab_area .tab li{position:relative; float:left;}
 .tab_area .tab li::before{content:""; display:block; position:absolute; left:0; top:15px; width:1px; height:14px; background-color:#ddd;}
 .tab_area .tab li:nth-child(1)::before{content:none;}
-.tab_area .tab li a{position:relative; display:block; padding:0 20px; font-size:18px; text-align:center; font-size:22px;}
+.tab_area .tab li a{position:relative; display:block; padding:0 20px; text-align:center; font-size:22px;}
 .tab_area .tab li a::before{content:""; display:block; width:0%; height:2px; margin-bottom:5px; background-color:#005cb9;}
 .tab_area .tab li a:hover{color:#005cb9;}
 .tab_area .tab li a:hover::before{width:100%;}
@@ -266,7 +266,6 @@
     .call_area .item{display:block; width:100%; height:45px; line-height:45px; padding:0; text-align:left;}
     .call_area .item:last-child{padding-left:0px;}
     .call_area .item p{display:block; width:100%; padding:0;}
-
 }
 
 @media all and (max-width: 1200px){
@@ -304,9 +303,16 @@
 
     .scroll_area{display:none;}
 
-    .roll_wrap{padding-top:100px;}
+    .tab_area .tab{width:330px;}
+    .tab_area .tab li a{padding:0 8px; font-size:18px;}
+    .tab_area .cont_wrap .cont ul li a{padding:20px 15px 15px 15px;}
+    .tab_area .cont_wrap .cont ul li a .desc p{min-height:40px; font-size:15px;}
+    .tab_area .cont_wrap .cont ul li a .desc span{margin-top:15px;}
+    .tab_area .cont_wrap .cont ul li a .desc + div{margin-top:20px;}
+
+    .roll_wrap{padding-top:80px;}
     .roll_area{height:80px;}
-    .roll_area .roll_tit{left:15px; top:-35px;}
+    .roll_area .roll_tit{left:15px; top:-35px; padding-left:60px;}
     .roll_area .roll_tit::after{background:none;}
     .roll_area .roll_cont{height:80px;}
     .roll_area .bullet{width:100%;}
