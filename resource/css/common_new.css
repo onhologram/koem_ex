@@ -132,8 +132,9 @@
 .footer_bottom_inner .footer_info ul li .str{color:#44b5df;}
 .footer_bottom_inner .footer_info address{margin-top:15px;}
 .footer_bottom_inner .footer_info address *{font-size:14px;}
-.footer_bottom_inner .footer_info address ul li{margin-left:35px;}
-.footer_bottom_inner .footer_info address p{margin-top:5px;}
+.footer_bottom_inner .footer_info address span{display:inline-block; margin-left:30px;}
+.footer_bottom_inner .footer_info address span:first-child{margin-left:0;}
+.footer_bottom_inner .footer_info address .copyright{margin-top:5px;}
 .footer_bottom_inner .footer_right{position:absolute; right:0; top:105px;}
 
 .footer_right .branch_wrap{position:relative;}
@@ -183,14 +184,17 @@
     .footer_bottom_inner .footer_logo{left:10px;}
     .footer_bottom_inner .footer_info{width:auto;}
 
-    .footer_bottom_inner .footer_info>ul, .footer_bottom_inner .footer_info address{width:auto; margin-left:280px;}
-    .footer_bottom_inner .footer_info address{margin-top:5px;}
-    .footer_bottom_inner .footer_right{right:1%; top:170px;}
+    .footer_bottom_inner .footer_info>ul, .footer_bottom_inner .footer_info address{width:auto; margin-left:300px;}
+    .footer_bottom_inner .footer_info address{margin-top:20px;}
+    .footer_bottom_inner .footer_right{right:1%; top:180px;}
     .footer_mark{margin-top:10px;}
 }
 
 @media all and (max-width: 1300px){
   .sub_menu .sub_title{padding-left:180px;}
+
+  .footer_bottom_inner .footer_right{top:220px;}
+  .footer_mark{display:none;}
 
 }
 
@@ -257,6 +261,8 @@
   .header.mobile .util .util_group span .search_input input::placeholder{color:#fff;}
   .header.mobile .util .util_group span .search_input .search_btn{position:relative; width:66px; height:40px; margin-left:-5px; background-color:#07a7e3; text-indent:-9999px;}
   .header.mobile .util .util_group span .search_input .search_btn::before{content:""; display:block; position:absolute; right:15px; top:8px; width:22px; height:23px; background-image:url(../images/common/icon_common_all.png); background-repeat:no-repeat; background-position:-75px -450px;}
+
+  .footer_bottom_inner .footer_info address span{width:45%; margin-left:0;}
 }
 
 @media all and (max-width: 1120px){
@@ -265,7 +271,10 @@
 
 @media all and (max-width: 1024px){
   /* .header.mobile .gnb>li .sub_menu.on .depth{padding-right:68px;} */
+  .footer_bottom_inner .footer_info{margin-top:-20px;}
   .footer_bottom_inner .footer_info>ul{display:none;}
+  .footer_bottom_inner .footer_info address .copyright{margin-top:15px;}
+
 
 }
 
@@ -279,17 +288,13 @@
   .footer_bottom{background-image: url(../images/common/bg_footGnb_mo.gif); background-repeat:repeat-x; background-size:100%;}
   .footer_bottom_inner{padding-top:75px; padding-bottom:40px;}
   .footer_bottom_inner .footer_logo{left:30px; top:82px;}
+  .footer_bottom_inner .footer_info{margin-top:0;}
   .footer_bottom_inner .footer_info>ul{padding-right:120px;}
   .footer_bottom_inner .footer_info address{margin-top:60px; margin-left:30px;}
-
-  .footer_bottom_inner .footer_info address ul li{margin-left:3%;}
-  .footer_bottom_inner .footer_info address ul li:first-child{margin-left:0;}
-
-
-  .footer_bottom_inner .footer_info address p{margin-top:40px;}
+  .footer_bottom_inner .footer_info address .copyright{margin-top:40px;}
   .footer_bottom_inner .footer_right{top:65px;}
 
-  .footer_mark{display:none;}
+
 
 }
 
@@ -319,11 +324,11 @@
   .footer_bottom_inner .footer_info address{margin-top:140px; margin-left:30px;}
 
 
-  .footer_bottom_inner .footer_info address ul li{width:100%; margin-left:0; padding-top:5px;}
-  .footer_bottom_inner .footer_info address ul li:nth-child(1){padding-top:0;}
-  .footer_bottom_inner .footer_info address ul li:nth-child(2n){margin-left:0;}
+  .footer_bottom_inner .footer_info address span{width:100%; margin-left:0; padding-top:5px;}
+  .footer_bottom_inner .footer_info address span:nth-child(1){padding-top:0;}
+  .footer_bottom_inner .footer_info address span:nth-child(2n){margin-left:0;}
 
-  .footer_bottom_inner .footer_info address p{margin-top:50px;}
+  .footer_bottom_inner .footer_info address .copyright{margin-top:50px;}
   .footer_bottom_inner .footer_right{top:140px; right:0; width:100%; padding:0 30px;}
   .footer_right .branch_wrap>div{width:100%;}
 }

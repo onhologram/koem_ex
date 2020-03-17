@@ -83,13 +83,13 @@
                     <li><a href="#">찾아오시는 길</a></li>
                 </ul>
                 <address>
-                    <ul>
-                        <li>05718 서울특별시 송파구 송파대로28길 28</li>
-                        <li>대표연락처 TEL: 02-3498-8500</li>
-                        <li>오늘방문자 : 1,685</li>
-                        <li>전체방문자 : 326,318</li>
-                    </ul>
-                    <p>COPYRIGHT ⓒ 2019 KOEM. ALL RIGHTS RESERVED.</p>
+                    <p>
+                        <span>05718 서울특별시 송파구 송파대로28길 28</span>
+                        <span>대표연락처 TEL: 02-3498-8500</span>
+                        <span>오늘방문자 : 1,685</span>
+                        <span>전체방문자 : 326,318</span>
+                    </p>
+                    <p class="copyright">COPYRIGHT ⓒ 2019 KOEM. ALL RIGHTS RESERVED.</p>
                 </address>
             </div>
             <div class="footer_right">
