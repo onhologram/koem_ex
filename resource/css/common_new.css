@@ -293,9 +293,6 @@
   .footer_bottom_inner .footer_info address{margin-top:60px; margin-left:30px;}
   .footer_bottom_inner .footer_info address .copyright{margin-top:40px;}
   .footer_bottom_inner .footer_right{top:65px;}
-
-
-
 }
 
 @media all and (max-width: 768px){
@@ -303,7 +300,6 @@
   .header.mobile .gnb>li .sub_menu.on .depth{padding-right:0;}
   .header.mobile .util{right:20px;}
   .header .util{right:10px;}
-
 }
 
 @media all and (max-width: 640px){
