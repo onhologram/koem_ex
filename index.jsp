@@ -476,7 +476,7 @@
                 <div class="inner">
                     <div class="promo_group">
                         <div class="youtube_area">
-                            <div id="video_area">
+                            <div class="video_area">
                                 <iframe width="440" height="400" src="https://www.youtube.com/embed/bilR0bNdmwY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                             </div>
                         </div>
