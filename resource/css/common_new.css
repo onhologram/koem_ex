@@ -317,14 +317,14 @@
 
   .footer_bottom_inner .footer_logo{width:90%; text-align:center;}
   .footer_bottom_inner .footer_info>ul{padding-right:120px;}
-  .footer_bottom_inner .footer_info address{margin-top:140px; margin-left:30px;}
+  .footer_bottom_inner .footer_info address{margin-top:140px; margin-left:30px; padding-right:30px;}
 
 
   .footer_bottom_inner .footer_info address span{width:100%; margin-left:0; padding-top:5px;}
   .footer_bottom_inner .footer_info address span:nth-child(1){padding-top:0;}
   .footer_bottom_inner .footer_info address span:nth-child(2n){margin-left:0;}
 
-  .footer_bottom_inner .footer_info address .copyright{margin-top:50px;}
+  .footer_bottom_inner .footer_info address .copyright{margin-top:50px; font-size:13px;}
   .footer_bottom_inner .footer_right{top:140px; right:0; width:100%; padding:0 30px;}
   .footer_right .branch_wrap>div{width:100%;}
 }
