@@ -405,14 +405,14 @@
                         <li>
                             <a href="#" class="bg">
                                 <h4>해양환경공단 창립기념일 생일 축하海</h4>
-                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.</p>
+                                <p>안녕하세요. 해양환경공단입니다.안녕하세요. 해양환경공단입니다.해양환경공단입니다.</p>
                                 <span class="date">2020.01.31 16:20:24</span><span class="sns_icon blog"></span>
                             </a>
                         </li>
                         <li>
                             <a href="#">
                                 <img src="resource/images/main/sns_img.jpg" alt="">
-                                <span class="date">2020.01.31 16:20:24</span><span class="sns_icon fb"></span>
+                                <span class="sns_icon fb"></span>
                             </a>
                         </li>
                         <li>
