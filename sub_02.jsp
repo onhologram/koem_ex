@@ -50,12 +50,19 @@
                         </div>
                         <table class="notice_table">
                             <colgroup>
+                                <col style="width:10%;">
+                                <col>
+                                <col style="width:10%;">
+                                <col style="width:8%;">
+                                <col style="width:8%;">
+                            </colgroup>
+                             <!-- <colgroup>
                                 <col style="width:90px;">
                                 <col style="width:1022px;">
                                 <col style="width:150px;">
                                 <col style="width:120px;">
                                 <col style="width:118px;">
-                            </colgroup>
+                            </colgroup> -->
                             <thead>
                                 <tr>
                                     <th scope="col">번호</th>
