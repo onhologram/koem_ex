@@ -526,6 +526,8 @@ text-overflow:ellipsis; white-space:nowrap;}
     .sub_footer .top ul li{margin-top:5px;}
     .sub_footer .top ul li:first-child{margin-top:0px;}
     .sub_footer .bottom .second .score_btn{bottom:20px; top:inherit; right:0;}
+    .sub_footer .bottom .second .score_group .score_item{display:block; margin-right:0; margin-top:10px;}
+    .sub_footer .bottom .second .score_group .score_item:first-child{margin-top:0;}
     .sub_footer .bottom .first .tit{padding:0;}
     .sub_footer .bottom .first .tit::before{background:none;} 
 
