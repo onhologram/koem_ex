@@ -406,6 +406,19 @@ text-overflow:ellipsis; white-space:nowrap;}
     .common_table{table-layout:auto;}
 
     .notice .top_area .srch_wrap input[type="text"]{width:400px;}
+
+    /* 서브03 사업안내 - 해양기후변화대응 */
+    .visual_inner{width:100%;}
+
+    .progress_group{margin-bottom:30px;}
+    .progress_group .desc_box{width:calc(100% - 270px); margin-left:5%}
+  
+    .content_area .sec{margin-top:40px;}
+    .content_area .sec .img_box img{width:100%;}
+    .content_area .sec .step_box li{width:32%; margin-left:2%;}
+
+    .img_list li{width:48%; margin-left:4%;}
+    .img_list li:nth-child(odd){margin-left:0;}
 }
 
 
@@ -413,12 +426,38 @@ text-overflow:ellipsis; white-space:nowrap;}
     .notice .top_area .srch_wrap{margin-left:6%;}
 
     .btn_wrap .btn p{display:none;}
+
+    .visual_inner .cont_box{width:100%; padding:40px 30px;}
+    .visual_inner .cont_box .img_box{width:30%;}
+    .visual_inner .cont_box .img_box img{width:100%;}
+    .visual_inner .cont_box dl{width:65%; margin-left:5%;}
+    .visual_inner .cont_box dl dd{font-size:14px;}
+    .progress_group:nth-child(1) .desc_box::before{background:none;}
+}
+
+
+@media all and (max-width: 1400px){
+    .content_area .sec .step_box li .tit{font-size:15px; padding:0 20px;}
+    .content_area .sec .step_box li .con{font-size:15px; padding:0 20px;}
+}
+@media all and (max-width: 1300px){
+    .progress_group .desc_box{margin-left:0; width:100%;}
+    .progress_group .desc_box:nth-child(1){margin-top:0;}
+    .progress_group:nth-child(1) .desc_box::before{content:""; display:block; position:absolute; left:-166px; bottom:50px; width:59px; height:380px; background: url(../images/sub/bg_yearList_row_arrow.png) no-repeat 0 0;}
+    .progress_group .desc_box .txt_box{margin-top:25px; padding-top:0;}
+    .progress_group .desc_box .txt_box:nth-child(1){margin-top:0;}
+    .progress_group .desc_box .txt_box h5{font-size:16px; font-weight:600; color:#005cc0;}
+    .progress_group .desc_box .txt_box .bullet{margin-top:10px; font-size:15px;}
 }
 
 @media all and (max-width: 1200px){
     .notice .top_area{height:auto;}
     .notice .top_area .tit_wrap{margin:10px 0 15px;}
     .notice .top_area .srch_wrap{margin-left:0; float:none; width:100%;}
+
+    .visual_inner .cont_box dl dt{font-size:25px;}
+    .common_table *, .sort_table *{font-size:14px;}
+    .sort_table thead>tr>th{font-size:15px;}
     
 }
 
@@ -456,6 +495,11 @@ text-overflow:ellipsis; white-space:nowrap;}
     ul.bar_list>li, .content_area .group>.bullet_list>li, .content_area .group>.bullet_list>li>p{font-size:15px;}
 
     .view h4{font-size:28px;}
+
+    .visual_inner .cont_box{padding:4% 5%; top:230px;}
+    .visual_inner .cont_box .img_box{display:none;}
+    .visual_inner .cont_box dl{width:100%; margin-left:0;}
+    .visual_inner .cont_box dl dd br{display:none;}   
 }
 
 @media all and (max-width:980px){
@@ -474,13 +518,10 @@ text-overflow:ellipsis; white-space:nowrap;}
     .notice_table colgroup col:first-child{width: 30%!important;}
 
     .view h4{font-size:25px;}
-}
-
-@media all and (max-width:768px){
-    .notice .top_area{padding:20px;}
-    .popup{top:50%;}
-    .paging{width:auto; text-align:center;}
-    .paging>span, .paging>ol>li{margin:3px;}
+    
+    .visual_inner .cont_box dl dt{font-size:20px;}
+    .visual_inner .cont_box dl dd{margin-top:15px;}
+   .content_area .sec .img_box{width:100%;}
 }
 
 @media all and (max-width:860px){
@@ -492,6 +533,23 @@ text-overflow:ellipsis; white-space:nowrap;}
     .notice .top_area .srch_wrap select{width:100%;}
     .notice .top_area .srch_wrap input[type="text"]{width:100%; margin-left:0;}
     .notice .top_area .srch_wrap .button.srch{width:47%; margin-top:10px; margin-left:0;}
+}
+
+@media all and (max-width:768px){
+    .notice .top_area{padding:20px;}
+    .popup{top:50%;}
+    .paging{width:auto; text-align:center;}
+    .paging>span, .paging>ol>li{margin:3px;}
+
+    .visual_area{margin:0 2%; height:100%;}
+    .visual_inner .cont_box{right:0;}
+
+    .content_area .sec .step_box li .tit{padding:0 2%; font-size:14px;}
+    .content_area .sec .step_box li .con{padding:0; font-size:14px;}
+
+    .sort_table thead>tr>th{font-size:14px;}
+    .img_list li span, .img_list li p{font-size:15px;}
+    .content_area .txt_box{font-size:14px;}
 }
 
 @media all and (max-width:640px){
@@ -506,7 +564,8 @@ text-overflow:ellipsis; white-space:nowrap;}
     .subtit_wrap .subtit{padding-top:90px; padding-left:0;}
     .subtit_wrap .btn_area{float: left;}
 
-    .common_table td{font-size:14px;}
+    .head_area {font-size:20px;}
+
     ul.public>li::before, .public.vertical>div::before{background-size:86% !important; background-repeat:no-repeat !important;}
     ul.public.float>li{padding-left:110px;}
     ul.public>li h5{padding-top:0;}
@@ -519,7 +578,7 @@ text-overflow:ellipsis; white-space:nowrap;}
     ul.bar_list>li, .content_area .group>.bullet_list>li, .content_area .group>.bullet_list>li>p, .content_area .group p{font-size:14px;}
     ul.bar_list>li::before, .content_area .group>.bullet_list>li>p::before{top:8px;}
 
-    .common_table th, .common_table td{font-size:14px;}
+    .common_table th, .common_table td{font-size:12px;}
     .content_area .group .common_table{margin-top:5px;}
 
     .sub_footer{padding:0 4%; margin:30px 0;}
@@ -544,4 +603,24 @@ text-overflow:ellipsis; white-space:nowrap;}
     .writer_con .subject_area{font-size:15px;}
     .writer_con .attach_area{padding:15px;}
     .writer_con .attach_area .attach_link{font-size:13px;}
+
+    .visual_inner{background:none; height:210px;}
+    .visual_inner .cont_box{top:0;}
+    .visual_inner .cont_box dl dt{font-size:16px;}
+    .visual_inner .cont_box dl dd{font-size:12px;}
+    .progress_group .desc_box{padding:8% 5%; min-height:90px;}
+    .progress_group .desc_box .txt_box .bullet{font-size:13px;}
+    .progress_group .desc_box .txt_box h5{font-size:12px;}
+
+    .content_area .sec .step_box li{width:100%; margin-left:0; margin-top:20px;}
+    .content_area .sec .step_box li:nth-child(1){margin-top:0;}
+    .content_area .sec .step_box li .tit{height:50px; font-size:13px;}
+    .content_area .sec .step_box li .con{min-height:50px; font-size:13px;}
+    .common_table *, .sort_table *, .sort_table thead>tr>th{font-size:12px;}
+    .sort_table tbody>tr>th span{width:90%; height:30px; line-height:30px; font-size:11px;}
+    .bullet li, .bullet.left li{font-size:12px;}
+    .img_list li{width:100%; margin-left:0;}
+    .img_list li span, .img_list li p{font-size:13px;}
+    .content_area .txt_box{font-size:13px;} 
+    .content_area .txt_box p:last-child{padding-left:0; font-size:12px;} 
 }
