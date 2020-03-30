@@ -140,8 +140,10 @@
                                     <table class="common_table">
                                         <caption>주요사업내용 설명 테이블</caption>
                                         <colgroup>
-                                            <col style="width:360px;">
-                                            <col style="width:840px;">
+                                            <col style="width:30%">
+                                            <col style="width:70%;">
+                                            <!-- <col style="width:360px;">
+                                            <col style="width:840px;"> -->
                                         </colgroup>
                                         <thead>
                                             <tr>

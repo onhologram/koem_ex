@@ -68,11 +68,11 @@
                                     <table class="common_table">
                                         <caption>정보공개책임관 설명 테이블</caption>
                                         <colgroup>
-                                            <col style="width:240px;">
-                                            <col style="width:240px;">
-                                            <col style="width:240px;">
-                                            <col style="width:240px;">
-                                            <col style="width:240px;">
+                                            <col style="width:20%;">
+                                            <col style="width:20%;">
+                                            <col style="width:20%;">
+                                            <col style="width:20%;">
+                                            <col style="width:20%;">
                                         </colgroup>
                                         <thead>
                                             <tr>
@@ -159,8 +159,8 @@
                                     <table class="common_table">
                                         <caption>공개대상별 공개방법 설명 테이블</caption>
                                         <colgroup>
-                                            <col style="width:360px;">
-                                            <col style="width:840px;">
+                                            <col style="width:30%;">
+                                            <col style="width:70%;">
                                         </colgroup>
                                         <thead>
                                             <tr>
@@ -193,8 +193,10 @@
                                     <table class="common_table">
                                         <caption>공개종류 설명 테이블</caption>
                                         <colgroup>
-                                            <col style="width:240px;">
-                                            <col style="width:960px;">
+                                            <col style="width:20%;">
+                                            <col style="width:80%;">
+                                            <!-- <col style="width:240px;">
+                                            <col style="width:960px;"> -->
                                         </colgroup>
                                         <tbody>
                                             <tr>
