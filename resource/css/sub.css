@@ -410,7 +410,8 @@ text-overflow:ellipsis; white-space:nowrap;}
     /* 서브03 사업안내 - 해양기후변화대응 */
     .visual_inner{width:100%;}
 
-    .progress_group{margin-bottom:30px;}
+    .progress_group{margin-top:30px;}
+    .progress_group:nth-child(1), .progress_group:nth-child(2){margin-top: 30px;}
     .progress_group .desc_box{width:calc(100% - 270px); margin-left:5%}
   
     .content_area .sec{margin-top:40px;}
@@ -608,14 +609,25 @@ text-overflow:ellipsis; white-space:nowrap;}
     .visual_inner .cont_box{top:0;}
     .visual_inner .cont_box dl dt{font-size:16px;}
     .visual_inner .cont_box dl dd{font-size:12px;}
-    .progress_group .desc_box{padding:8% 5%; min-height:90px;}
+    .progress_group{margin-top:20px;}
+    .progress_group:nth-child(1){margin-top:0;}
+    .progress_group .bg_area{width:80px; height:40px; line-height:40px;}
+    .progress_group:nth-child(1) .bg_area,.progress_group:nth-child(2) .bg_area,.progress_group:nth-child(3) .bg_area,.progress_group:nth-child(4) .bg_area{background:none;}
+    .progress_group:nth-child(1) .bg_area{background-color: #0a2f87;}
+    .progress_group:nth-child(2) .bg_area{background-color: #0e3b68;}
+    .progress_group:nth-child(3) .bg_area{background-color:gray}
+    .progress_group:nth-child(4) .bg_area{background-color: #c4991e;}
+    
+
+    .progress_group .bg_area::after{background:none;}
+    .progress_group .desc_box{padding:8% 5%; min-height:90px; margin-top:10px;}
     .progress_group .desc_box .txt_box .bullet{font-size:13px;}
     .progress_group .desc_box .txt_box h5{font-size:12px;}
 
     .content_area .sec .step_box li{width:100%; margin-left:0; margin-top:20px;}
     .content_area .sec .step_box li:nth-child(1){margin-top:0;}
     .content_area .sec .step_box li .tit{height:50px; font-size:13px;}
-    .content_area .sec .step_box li .con{min-height:50px; font-size:13px;}
+    .content_area .sec .step_box li .con{min-height:70px; font-size:13px;}
     .common_table *, .sort_table *, .sort_table thead>tr>th{font-size:12px;}
     .sort_table tbody>tr>th span{width:90%; height:30px; line-height:30px; font-size:11px;}
     .bullet li, .bullet.left li{font-size:12px;}
